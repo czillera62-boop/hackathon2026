@@ -1,0 +1,65 @@
+# --- Unity generated folders ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- Asset meta data should be committed, but not for these ---
+# (keep all .meta files!)
+
+# --- Visual Studio / Rider / VS Code ---
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Unity-generated auto files ---
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# --- Build outputs ---
+*.exe
+*.dll.config
+/[Bb]in/
+
+# --- Burst / Bee / misc caches ---
+/Library/Bee/
+/Library/BurstCache/
+*.burst
+[Bb]urst/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Asset Store / Plugins: uncomment if you don't want to track them ---
+# /Assets/DOTween/
+# /Assets/TextMesh Pro/
+
+# --- Temporary asset files ---
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
