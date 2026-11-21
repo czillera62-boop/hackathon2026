@@ -18,7 +18,7 @@ public class WiFi : MonoBehaviour
     [SerializeField] private GameObject[] stageImages;
 
     [Tooltip("Obraz i-ty w³¹cza siê, gdy punkty > próg i-ty.")]
-    [SerializeField] private int[] thresholds = { 1000, 2000, 3000 };
+    [SerializeField] private int[] thresholds = { 0, 1000, 2000 };
 
     [Tooltip("Zaznaczone = obraz nigdy nie cofa siê po spadku punktów (brak migania na granicy progu).")]
     [SerializeField] private bool onlyGoUp = true;

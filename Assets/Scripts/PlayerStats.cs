@@ -42,30 +42,44 @@ public class PlayerStats : MonoBehaviour
             return;
         }
 
-        if (noteType == FallingNote.NoteType.Good)
+        if (noteType == FallingNote.NoteType.Good) // Good notes below
         {
             Debug.Log(distance);
 
-            if (distance < 0.1f)
+            if (distance < 0.08f) //Perfect!
             {
-                AddPoints(100);
-                Debug.Log("PERFECT!");
+                AddPoints(25);
+                Debug.Log("Perfect!");
             }
-            else if (distance < 0.2f)
+            else if (distance < 0.3f) //Good!
             {
                 AddPoints(10);
-                Debug.Log("GOOD!");
+                Debug.Log("Good!");
             }
-            else
+            else //Meh
             {
-                AddPoints(1);
-                Debug.Log("Znoœnie");
+                AddPoints(3);
+                Debug.Log("Meh!");
             }
         }
-        else
+        else if (noteType == FallingNote.NoteType.Bad) // Bad notes below
         {
-            AddPoints(-1);
-            //Burger
+            if (distance < 0.08f) //Bad Perfect!
+            {
+                AddPoints(-25);
+                Debug.Log("Bad Perfect!");
+            }
+            else if (distance < 0.3f)
+            {
+                AddPoints(-10);
+                Debug.Log("Bad Good!");
+            }
+            else //Meh
+            {
+                AddPoints(-3);
+                Debug.Log("Bad Meh!");
+            }
+
         }
     }
 }
