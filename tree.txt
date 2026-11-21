@@ -1,0 +1,3427 @@
+Too many parameters - -a
+Folder PATH listing
+Volume serial number is 06A3-7EED
+C:.
++¦¦¦Assets
+-   +¦¦¦Audio
+-   -   +¦¦¦Gameplay Music
+-   -   L¦¦¦Sound Effects
+-   +¦¦¦DOTween
+-   -   +¦¦¦Editor
+-   -   -   L¦¦¦Imgs
+-   -   L¦¦¦Modules
+-   +¦¦¦Prefabs
+-   +¦¦¦Resources
+-   +¦¦¦Scenes
+-   +¦¦¦Scripts
+-   +¦¦¦Settings
+-   -   L¦¦¦Scenes
+-   +¦¦¦Sprites
+-   +¦¦¦TextMesh Pro
+-   -   +¦¦¦Fonts
+-   -   +¦¦¦Resources
+-   -   -   +¦¦¦Fonts & Materials
+-   -   -   L¦¦¦Style Sheets
+-   -   L¦¦¦Shaders
+-   L¦¦¦Welcome
++¦¦¦Library
+-   +¦¦¦APIUpdater
+-   -   L¦¦¦ConfigurationCache
+-   +¦¦¦Bee
+-   -   +¦¦¦artifacts
+-   -   -   +¦¦¦1900b0aE.dag
+-   -   -   -   L¦¦¦post-processed
+-   -   -   +¦¦¦mvdfrm
+-   -   -   L¦¦¦rsp
+-   -   L¦¦¦CachedNodeOutput
+-   +¦¦¦BuildInstructions
+-   +¦¦¦BuildProfiles
+-   +¦¦¦BurstCache
+-   -   L¦¦¦JIT
+-   -       L¦¦¦Hashes
+-   -           L¦¦¦Objects
+-   +¦¦¦DataStore
+-   -   +¦¦¦00
+-   -   +¦¦¦01
+-   -   +¦¦¦02
+-   -   +¦¦¦03
+-   -   +¦¦¦04
+-   -   +¦¦¦05
+-   -   +¦¦¦06
+-   -   +¦¦¦07
+-   -   +¦¦¦08
+-   -   +¦¦¦09
+-   -   +¦¦¦0a
+-   -   +¦¦¦0b
+-   -   +¦¦¦0c
+-   -   +¦¦¦0d
+-   -   +¦¦¦0e
+-   -   +¦¦¦0f
+-   -   +¦¦¦10
+-   -   +¦¦¦11
+-   -   +¦¦¦12
+-   -   +¦¦¦13
+-   -   +¦¦¦14
+-   -   +¦¦¦15
+-   -   +¦¦¦16
+-   -   +¦¦¦17
+-   -   +¦¦¦18
+-   -   +¦¦¦19
+-   -   +¦¦¦1a
+-   -   +¦¦¦1b
+-   -   +¦¦¦1c
+-   -   +¦¦¦1d
+-   -   +¦¦¦1e
+-   -   +¦¦¦1f
+-   -   +¦¦¦20
+-   -   +¦¦¦21
+-   -   +¦¦¦22
+-   -   +¦¦¦23
+-   -   +¦¦¦24
+-   -   +¦¦¦25
+-   -   +¦¦¦26
+-   -   +¦¦¦27
+-   -   +¦¦¦28
+-   -   +¦¦¦29
+-   -   +¦¦¦2a
+-   -   +¦¦¦2b
+-   -   +¦¦¦2c
+-   -   +¦¦¦2d
+-   -   +¦¦¦2e
+-   -   +¦¦¦2f
+-   -   +¦¦¦30
+-   -   +¦¦¦31
+-   -   +¦¦¦32
+-   -   +¦¦¦33
+-   -   +¦¦¦34
+-   -   +¦¦¦35
+-   -   +¦¦¦36
+-   -   +¦¦¦37
+-   -   +¦¦¦38
+-   -   +¦¦¦39
+-   -   +¦¦¦3a
+-   -   +¦¦¦3b
+-   -   +¦¦¦3c
+-   -   +¦¦¦3d
+-   -   +¦¦¦3e
+-   -   +¦¦¦3f
+-   -   +¦¦¦40
+-   -   +¦¦¦41
+-   -   +¦¦¦42
+-   -   +¦¦¦43
+-   -   +¦¦¦44
+-   -   +¦¦¦45
+-   -   +¦¦¦46
+-   -   +¦¦¦47
+-   -   +¦¦¦48
+-   -   +¦¦¦49
+-   -   +¦¦¦4a
+-   -   +¦¦¦4b
+-   -   +¦¦¦4c
+-   -   +¦¦¦4d
+-   -   +¦¦¦4e
+-   -   +¦¦¦4f
+-   -   +¦¦¦50
+-   -   +¦¦¦51
+-   -   +¦¦¦52
+-   -   +¦¦¦53
+-   -   +¦¦¦54
+-   -   +¦¦¦55
+-   -   +¦¦¦56
+-   -   +¦¦¦57
+-   -   +¦¦¦58
+-   -   +¦¦¦59
+-   -   +¦¦¦5a
+-   -   +¦¦¦5b
+-   -   +¦¦¦5c
+-   -   +¦¦¦5d
+-   -   +¦¦¦5e
+-   -   +¦¦¦5f
+-   -   +¦¦¦60
+-   -   +¦¦¦61
+-   -   +¦¦¦62
+-   -   +¦¦¦63
+-   -   +¦¦¦64
+-   -   +¦¦¦65
+-   -   +¦¦¦66
+-   -   +¦¦¦67
+-   -   +¦¦¦68
+-   -   +¦¦¦69
+-   -   +¦¦¦6a
+-   -   +¦¦¦6b
+-   -   +¦¦¦6c
+-   -   +¦¦¦6d
+-   -   +¦¦¦6e
+-   -   +¦¦¦6f
+-   -   +¦¦¦70
+-   -   +¦¦¦71
+-   -   +¦¦¦72
+-   -   +¦¦¦73
+-   -   +¦¦¦74
+-   -   +¦¦¦75
+-   -   +¦¦¦76
+-   -   +¦¦¦77
+-   -   +¦¦¦78
+-   -   +¦¦¦79
+-   -   +¦¦¦7a
+-   -   +¦¦¦7b
+-   -   +¦¦¦7c
+-   -   +¦¦¦7d
+-   -   +¦¦¦7e
+-   -   +¦¦¦7f
+-   -   +¦¦¦80
+-   -   +¦¦¦81
+-   -   +¦¦¦82
+-   -   +¦¦¦83
+-   -   +¦¦¦84
+-   -   +¦¦¦85
+-   -   +¦¦¦86
+-   -   +¦¦¦87
+-   -   +¦¦¦88
+-   -   +¦¦¦89
+-   -   +¦¦¦8a
+-   -   +¦¦¦8b
+-   -   +¦¦¦8c
+-   -   +¦¦¦8d
+-   -   +¦¦¦8e
+-   -   +¦¦¦8f
+-   -   +¦¦¦90
+-   -   +¦¦¦91
+-   -   +¦¦¦92
+-   -   +¦¦¦93
+-   -   +¦¦¦94
+-   -   +¦¦¦95
+-   -   +¦¦¦96
+-   -   +¦¦¦97
+-   -   +¦¦¦98
+-   -   +¦¦¦99
+-   -   +¦¦¦9a
+-   -   +¦¦¦9b
+-   -   +¦¦¦9c
+-   -   +¦¦¦9d
+-   -   +¦¦¦9e
+-   -   +¦¦¦9f
+-   -   +¦¦¦a0
+-   -   +¦¦¦a1
+-   -   +¦¦¦a2
+-   -   +¦¦¦a3
+-   -   +¦¦¦a4
+-   -   +¦¦¦a5
+-   -   +¦¦¦a6
+-   -   +¦¦¦a7
+-   -   +¦¦¦a8
+-   -   +¦¦¦a9
+-   -   +¦¦¦aa
+-   -   +¦¦¦ab
+-   -   +¦¦¦ac
+-   -   +¦¦¦ad
+-   -   +¦¦¦ae
+-   -   +¦¦¦af
+-   -   +¦¦¦b0
+-   -   +¦¦¦b1
+-   -   +¦¦¦b2
+-   -   +¦¦¦b3
+-   -   +¦¦¦b4
+-   -   +¦¦¦b5
+-   -   +¦¦¦b6
+-   -   +¦¦¦b7
+-   -   +¦¦¦b8
+-   -   +¦¦¦b9
+-   -   +¦¦¦ba
+-   -   +¦¦¦bb
+-   -   +¦¦¦bc
+-   -   +¦¦¦bd
+-   -   +¦¦¦be
+-   -   +¦¦¦bf
+-   -   +¦¦¦c0
+-   -   +¦¦¦c1
+-   -   +¦¦¦c2
+-   -   +¦¦¦c3
+-   -   +¦¦¦c4
+-   -   +¦¦¦c5
+-   -   +¦¦¦c6
+-   -   +¦¦¦c7
+-   -   +¦¦¦c8
+-   -   +¦¦¦c9
+-   -   +¦¦¦ca
+-   -   +¦¦¦cb
+-   -   +¦¦¦cc
+-   -   +¦¦¦cd
+-   -   +¦¦¦ce
+-   -   +¦¦¦cf
+-   -   +¦¦¦d0
+-   -   +¦¦¦d1
+-   -   +¦¦¦d2
+-   -   +¦¦¦d3
+-   -   +¦¦¦d4
+-   -   +¦¦¦d5
+-   -   +¦¦¦d6
+-   -   +¦¦¦d7
+-   -   +¦¦¦d8
+-   -   +¦¦¦d9
+-   -   +¦¦¦da
+-   -   +¦¦¦db
+-   -   +¦¦¦dc
+-   -   +¦¦¦dd
+-   -   +¦¦¦de
+-   -   +¦¦¦df
+-   -   +¦¦¦e0
+-   -   +¦¦¦e1
+-   -   +¦¦¦e2
+-   -   +¦¦¦e3
+-   -   +¦¦¦e4
+-   -   +¦¦¦e5
+-   -   +¦¦¦e6
+-   -   +¦¦¦e7
+-   -   +¦¦¦e8
+-   -   +¦¦¦e9
+-   -   +¦¦¦ea
+-   -   +¦¦¦eb
+-   -   +¦¦¦ec
+-   -   +¦¦¦ed
+-   -   +¦¦¦ee
+-   -   +¦¦¦ef
+-   -   +¦¦¦f0
+-   -   +¦¦¦f1
+-   -   +¦¦¦f2
+-   -   +¦¦¦f3
+-   -   +¦¦¦f4
+-   -   +¦¦¦f5
+-   -   +¦¦¦f6
+-   -   +¦¦¦f7
+-   -   +¦¦¦f8
+-   -   +¦¦¦f9
+-   -   +¦¦¦fa
+-   -   +¦¦¦fb
+-   -   +¦¦¦fc
+-   -   +¦¦¦fd
+-   -   +¦¦¦fe
+-   -   +¦¦¦ff
+-   -   L¦¦¦Temp
+-   +¦¦¦PackageCache
+-   -   +¦¦¦com.unity.2d.animation@899988b542b9
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Assets
+-   -   -   -   -   +¦¦¦AssetUpgrader
+-   -   -   -   -   +¦¦¦BoneOverlay
+-   -   -   -   -   +¦¦¦ComponentIcons
+-   -   -   -   -   +¦¦¦EditorIcons
+-   -   -   -   -   -   L¦¦¦Selected
+-   -   -   -   -   +¦¦¦LayoutOverlay
+-   -   -   -   -   +¦¦¦SkinningModule
+-   -   -   -   -   +¦¦¦SpriteLibraryEditor
+-   -   -   -   -   L¦¦¦SpriteSwap
+-   -   -   -   +¦¦¦ClipperLib
+-   -   -   -   +¦¦¦LayoutOverlay
+-   -   -   -   -   L¦¦¦Manipulators
+-   -   -   -   +¦¦¦SkinningModule
+-   -   -   -   -   +¦¦¦Cache
+-   -   -   -   -   +¦¦¦CharacterModeTool
+-   -   -   -   -   +¦¦¦IMGUI
+-   -   -   -   -   +¦¦¦Lib
+-   -   -   -   -   -   +¦¦¦ARM64
+-   -   -   -   -   -   +¦¦¦x64
+-   -   -   -   -   -   L¦¦¦x86_64
+-   -   -   -   -   -       L¦¦¦BoundedBiharmonicWeightsModule.bundle
+-   -   -   -   -   -           L¦¦¦Contents
+-   -   -   -   -   -               +¦¦¦MacOS
+-   -   -   -   -   -               L¦¦¦_CodeSignature
+-   -   -   -   -   +¦¦¦MeshPreviewTool
+-   -   -   -   -   +¦¦¦MeshTool
+-   -   -   -   -   +¦¦¦OutlineGenerator
+-   -   -   -   -   +¦¦¦Selection
+-   -   -   -   -   +¦¦¦Selectors
+-   -   -   -   -   +¦¦¦SkeletonTool
+-   -   -   -   -   +¦¦¦SkinningCache
+-   -   -   -   -   +¦¦¦SkinningSerializer
+-   -   -   -   -   +¦¦¦SpriteBoneInfluence
+-   -   -   -   -   +¦¦¦SpriteMeshData
+-   -   -   -   -   +¦¦¦Triangulation
+-   -   -   -   -   +¦¦¦UI
+-   -   -   -   -   +¦¦¦Undo
+-   -   -   -   -   +¦¦¦VisibilityTool
+-   -   -   -   -   L¦¦¦WeightsGenerator
+-   -   -   -   +¦¦¦SpriteLib
+-   -   -   -   -   +¦¦¦SpriteLibraryEditor
+-   -   -   -   -   -   L¦¦¦UI
+-   -   -   -   -   -       L¦¦¦CustomElements
+-   -   -   -   -   +¦¦¦SpriteLibrarySourceAsset
+-   -   -   -   -   L¦¦¦SpriteSwapOverlay
+-   -   -   -   +¦¦¦SpriteOutlineRenderer
+-   -   -   -   +¦¦¦SpriteSkin
+-   -   -   -   -   +¦¦¦BoneHierarchy
+-   -   -   -   -   L¦¦¦BoneOverlay
+-   -   -   -   L¦¦¦UpgradeTools
+-   -   -   -       +¦¦¦UI
+-   -   -   -       L¦¦¦Utilities
+-   -   -   +¦¦¦IK
+-   -   -   -   +¦¦¦Editor
+-   -   -   -   -   L¦¦¦Inspectors
+-   -   -   -   L¦¦¦Runtime
+-   -   -   -       +¦¦¦Culling
+-   -   -   -       L¦¦¦Solvers
+-   -   -   +¦¦¦Profiler
+-   -   -   -   +¦¦¦Editor
+-   -   -   -   -   L¦¦¦UI
+-   -   -   -   -       +¦¦¦SpriteSkinHierarchyView
+-   -   -   -   -       +¦¦¦SpriteSkinProfilerView
+-   -   -   -   -       L¦¦¦SpriteSkinStatisticView
+-   -   -   -   L¦¦¦Runtime
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦BatchedDeformation
+-   -   -   -   L¦¦¦SpriteLib
+-   -   -   +¦¦¦Samples~
+-   -   -   -   L¦¦¦AnimationSamples
+-   -   -   -       +¦¦¦1 Simple
+-   -   -   -       -   +¦¦¦Animation
+-   -   -   -       -   -   +¦¦¦Animators
+-   -   -   -       -   -   L¦¦¦Clips
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦2 Single Skinned Sprite
+-   -   -   -       -   +¦¦¦Animation
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦3 Character
+-   -   -   -       -   +¦¦¦Animation
+-   -   -   -       -   -   +¦¦¦Animators
+-   -   -   -       -   -   L¦¦¦Clips
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦4 SpriteSwap
+-   -   -   -       -   +¦¦¦Animation
+-   -   -   -       -   -   +¦¦¦Animators
+-   -   -   -       -   -   L¦¦¦Clips
+-   -   -   -       -   +¦¦¦Scripts
+-   -   -   -       -   -   +¦¦¦Editor
+-   -   -   -       -   -   L¦¦¦Runtime
+-   -   -   -       -   +¦¦¦Sprite Library
+-   -   -   -       -   +¦¦¦Sprites
+-   -   -   -       -   L¦¦¦UI
+-   -   -   -       +¦¦¦5 BlendShapes
+-   -   -   -       -   +¦¦¦Animation
+-   -   -   -       -   +¦¦¦Scripts
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦Extras
+-   -   -   -       -   +¦¦¦Attachment Points
+-   -   -   -       -   -   +¦¦¦Animation
+-   -   -   -       -   -   -   +¦¦¦Animators
+-   -   -   -       -   -   -   L¦¦¦Clips
+-   -   -   -       -   -   L¦¦¦Sprites
+-   -   -   -       -   L¦¦¦IK
+-   -   -   -       -       +¦¦¦Animation
+-   -   -   -       -       L¦¦¦Sprites
+-   -   -   -       L¦¦¦Scripts
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.aseprite@ab909e3e9b5f
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Aseprite
+-   -   -   -   -   L¦¦¦Chunks
+-   -   -   -   +¦¦¦AssetGeneration
+-   -   -   -   +¦¦¦Assets
+-   -   -   -   -   L¦¦¦UI
+-   -   -   -   +¦¦¦Common
+-   -   -   -   -   L¦¦¦InternalBridge
+-   -   -   -   +¦¦¦Inspector
+-   -   -   -   +¦¦¦Tasks
+-   -   -   -   L¦¦¦Utilities
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.common@b779c433ed47
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦DebugTools
+-   -   -   -   +¦¦¦ImagePacker
+-   -   -   -   -   L¦¦¦Jobs
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   -   +¦¦¦Deprecated
+-   -   -   -   -   +¦¦¦SpriteDataProviders
+-   -   -   -   -   L¦¦¦TexturePlatformSettings
+-   -   -   -   +¦¦¦ScriptablePacker
+-   -   -   -   L¦¦¦TextureGenerator
+-   -   -   +¦¦¦Path
+-   -   -   -   L¦¦¦Editor
+-   -   -   -       +¦¦¦EditablePath
+-   -   -   -       +¦¦¦EditorTool
+-   -   -   -       +¦¦¦Handles
+-   -   -   -       -   L¦¦¦Path
+-   -   -   -       +¦¦¦IMGUI
+-   -   -   -       -   L¦¦¦GUIFramework
+-   -   -   -       +¦¦¦Selection
+-   -   -   -       L¦¦¦Shapes
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   +¦¦¦Triangulation
+-   -   -   -   +¦¦¦UAi2D
+-   -   -   -   +¦¦¦URaster2D
+-   -   -   -   L¦¦¦UTess2D
+-   -   -   +¦¦¦Samples~
+-   -   -   -   L¦¦¦SpriteAtlas
+-   -   -   -       +¦¦¦BuiltIn
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦BuiltInVariant
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦FromAssetBundle
+-   -   -   -       -   +¦¦¦Editor
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦FromResource
+-   -   -   -       -   +¦¦¦Resources
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦FromResourceVariant
+-   -   -   -       -   +¦¦¦Resources
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       +¦¦¦LateBoundRuntime
+-   -   -   -       -   +¦¦¦Resources
+-   -   -   -       -   L¦¦¦Sprites
+-   -   -   -       L¦¦¦Runtime
+-   -   -   -           L¦¦¦Sprites
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.psdimporter@e02a9153d8d9
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Assets
+-   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   -   +¦¦¦Dark
+-   -   -   -   -   -   +¦¦¦Light
+-   -   -   -   -   -   L¦¦¦Selected
+-   -   -   -   -   L¦¦¦UI
+-   -   -   -   +¦¦¦PSDPlugin
+-   -   -   -   -   +¦¦¦PDNWrapper
+-   -   -   -   -   +¦¦¦PhotoShopFileType
+-   -   -   -   -   L¦¦¦PsdFile
+-   -   -   -   -       +¦¦¦Compression
+-   -   -   -   -       +¦¦¦ImageResources
+-   -   -   -   -       L¦¦¦Layers
+-   -   -   -   -           L¦¦¦LayerInfo
+-   -   -   -   +¦¦¦Tasks
+-   -   -   -   L¦¦¦UTK
+-   -   -   +¦¦¦Samples~
+-   -   -   -   L¦¦¦PSDImporterSamples
+-   -   -   -       L¦¦¦PSDImporterCustomPacker
+-   -   -   -           L¦¦¦Editor
+-   -   -   -               L¦¦¦ImagePacker
+-   -   -   -                   L¦¦¦Jobs
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦EditorTests
+-   -   +¦¦¦com.unity.2d.sprite@752945c75a6f
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Assets
+-   -   -   -   +¦¦¦Interface
+-   -   -   -   +¦¦¦ObjectMenuCreation
+-   -   -   -   -   L¦¦¦DefaultAssets
+-   -   -   -   -       L¦¦¦Textures
+-   -   -   -   -           L¦¦¦v2
+-   -   -   -   +¦¦¦ProjectSettings
+-   -   -   -   -   L¦¦¦SpriteFrameModuleSettings
+-   -   -   -   +¦¦¦ShapeEditor
+-   -   -   -   +¦¦¦SpriteEditor
+-   -   -   -   +¦¦¦SpriteEditorModule
+-   -   -   -   -   L¦¦¦SpriteFrameModule
+-   -   -   -   -       +¦¦¦Overlay
+-   -   -   -   -       +¦¦¦SpriteFrameEditor
+-   -   -   -   -       L¦¦¦UndoObject
+-   -   -   -   +¦¦¦UI
+-   -   -   -   -   L¦¦¦SpriteEditor
+-   -   -   -   L¦¦¦Undo
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.spriteshape@42798c9d35d3
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Handles
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   +¦¦¦Icons
+-   -   -   -   L¦¦¦ObjectMenuCreation
+-   -   -   -       L¦¦¦DefaultAssets
+-   -   -   -           +¦¦¦Sprite Shape Profiles
+-   -   -   -           +¦¦¦Sprite Shapes
+-   -   -   -           L¦¦¦Textures
+-   -   -   +¦¦¦Runtime
+-   -   -   -   L¦¦¦External
+-   -   -   -       L¦¦¦LibTessDotNet
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦Extras
+-   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   +¦¦¦Scenes
+-   -   -   -   -   +¦¦¦Scripts
+-   -   -   -   -   +¦¦¦Sprite Shape Profiles
+-   -   -   -   -   +¦¦¦Sprites
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   L¦¦¦Samples
+-   -   -   -       +¦¦¦Scripts
+-   -   -   -       +¦¦¦Sprite Shape Profiles
+-   -   -   -       +¦¦¦Sprites
+-   -   -   -       L¦¦¦Textures
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.tilemap.extras@9446f3c60919
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Brushes
+-   -   -   -   -   +¦¦¦GameObjectBrush
+-   -   -   -   -   +¦¦¦GroupBrush
+-   -   -   -   -   +¦¦¦LineBrush
+-   -   -   -   -   L¦¦¦RandomBrush
+-   -   -   -   +¦¦¦Menu
+-   -   -   -   L¦¦¦Tiles
+-   -   -   -       +¦¦¦AnimatedTile
+-   -   -   -       +¦¦¦AutoTile
+-   -   -   -       -   L¦¦¦UI
+-   -   -   -       +¦¦¦HexagonalRuleTile
+-   -   -   -       +¦¦¦IsometricRuleTile
+-   -   -   -       +¦¦¦RuleOverrideTile
+-   -   -   -       L¦¦¦RuleTile
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦GridInformation
+-   -   -   -   L¦¦¦Tiles
+-   -   -   -       +¦¦¦AnimatedTile
+-   -   -   -       +¦¦¦AutoTile
+-   -   -   -       +¦¦¦HexagonalRuleTile
+-   -   -   -       +¦¦¦IsometricRuleTile
+-   -   -   -       +¦¦¦RuleOverrideTile
+-   -   -   -       L¦¦¦RuleTile
+-   -   -   L¦¦¦Samples~
+-   -   -       +¦¦¦AutoTile3
+-   -   -       -   +¦¦¦Sprites
+-   -   -       -   +¦¦¦Template
+-   -   -       -   L¦¦¦Tiles
+-   -   -       +¦¦¦DungeonRuleTile
+-   -   -       -   +¦¦¦Sprites
+-   -   -       -   L¦¦¦Tiles
+-   -   -       +¦¦¦PipeRuleTile
+-   -   -       -   +¦¦¦Sprites
+-   -   -       -   L¦¦¦Tiles
+-   -   -       L¦¦¦WaterfallAnimatedTile
+-   -   -           +¦¦¦Sprites
+-   -   -           L¦¦¦Tiles
+-   -   +¦¦¦com.unity.2d.tilemap@f4c7bd71ac8a
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦EditorTools
+-   -   -   -   -   L¦¦¦GridSelection
+-   -   -   -   +¦¦¦Icons
+-   -   -   -   +¦¦¦ObjectCreationMenu
+-   -   -   -   +¦¦¦TileSet
+-   -   -   -   L¦¦¦UI
+-   -   -   -       L¦¦¦External
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.2d.tooling@4e93af4036ee
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Editor
+-   -   -   -   L¦¦¦Insider
+-   -   -   -       +¦¦¦AnalyzerWindow
+-   -   -   -       -   +¦¦¦DataSourceListItem
+-   -   -   -       -   +¦¦¦ReportListItem
+-   -   -   -       -   L¦¦¦ReportListView
+-   -   -   -       +¦¦¦Interface
+-   -   -   -       +¦¦¦SpriteAtlas
+-   -   -   -       -   +¦¦¦DataSource
+-   -   -   -       -   L¦¦¦SpriteAtlasIssueReport
+-   -   -   -       -       +¦¦¦AllSpriteAtlasReport
+-   -   -   -       -       +¦¦¦SourceTextureWithCompressionIssue
+-   -   -   -       -       +¦¦¦SpriteAtlasIssuesContainer
+-   -   -   -       -       +¦¦¦SpriteAtlasPageIssue
+-   -   -   -       -       +¦¦¦SpriteAtlasTextureSpaceUsedIssue
+-   -   -   -       -       +¦¦¦SpriteCountInAtlasIssue
+-   -   -   -       -       +¦¦¦SpriteWithSecondaryTextureIssue
+-   -   -   -       -       L¦¦¦UIElement
+-   -   -   -       -           +¦¦¦CellLabelWithIcon
+-   -   -   -       -           +¦¦¦CommonSpriteAtlasIssueView
+-   -   -   -       -           +¦¦¦OKCancel
+-   -   -   -       -           +¦¦¦SpriteAtlasReportTable
+-   -   -   -       -           L¦¦¦StyleSheet
+-   -   -   -       L¦¦¦Utilities
+-   -   -   L¦¦¦Samples~
+-   -   -       +¦¦¦Sample Sprite Atlas Report
+-   -   -       -   L¦¦¦SampleAtlas
+-   -   -       L¦¦¦Sample Sprite Data source And Report
+-   -   -           +¦¦¦ReportData
+-   -   -           L¦¦¦Reports
+-   -   +¦¦¦com.unity.burst@626e66ab421b
+-   -   -   L¦¦¦Runtime
+-   -   +¦¦¦com.unity.collab-proxy@ac5a9def1e96
+-   -   -   +¦¦¦AIAssistantSkills
+-   -   -   -   L¦¦¦unity-version-control
+-   -   -   -       L¦¦¦references
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Api
+-   -   -   -   +¦¦¦AssetMenu
+-   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   +¦¦¦AssetOverlays
+-   -   -   -   -   L¦¦¦Cache
+-   -   -   -   +¦¦¦Assets
+-   -   -   -   -   +¦¦¦Fonts
+-   -   -   -   -   +¦¦¦Images
+-   -   -   -   -   +¦¦¦Layouts
+-   -   -   -   -   L¦¦¦Styles
+-   -   -   -   +¦¦¦AssetsUtils
+-   -   -   -   -   L¦¦¦Processor
+-   -   -   -   +¦¦¦Assistant
+-   -   -   -   -   +¦¦¦Tools
+-   -   -   -   -   L¦¦¦UI
+-   -   -   -   -       L¦¦¦Interactions
+-   -   -   -   +¦¦¦CloudDrive
+-   -   -   -   -   +¦¦¦CreateWorkspace
+-   -   -   -   -   +¦¦¦ShareWorkspace
+-   -   -   -   -   +¦¦¦Welcome
+-   -   -   -   -   L¦¦¦Workspaces
+-   -   -   -   -       +¦¦¦DirectoryContent
+-   -   -   -   -       +¦¦¦DragAndDrop
+-   -   -   -   -       L¦¦¦Tree
+-   -   -   -   +¦¦¦CodeEditor
+-   -   -   -   -   +¦¦¦Document
+-   -   -   -   -   +¦¦¦Editing
+-   -   -   -   -   +¦¦¦Indentation
+-   -   -   -   -   -   L¦¦¦CSharp
+-   -   -   -   -   +¦¦¦Platform
+-   -   -   -   -   +¦¦¦Rendering
+-   -   -   -   -   +¦¦¦Search
+-   -   -   -   -   +¦¦¦Text
+-   -   -   -   -   +¦¦¦TextMate
+-   -   -   -   -   L¦¦¦Utils
+-   -   -   -   +¦¦¦Configuration
+-   -   -   -   -   +¦¦¦CloudEdition
+-   -   -   -   -   -   L¦¦¦Welcome
+-   -   -   -   -   L¦¦¦TeamEdition
+-   -   -   -   +¦¦¦Developer
+-   -   -   -   -   L¦¦¦UpdateReport
+-   -   -   -   +¦¦¦Diff
+-   -   -   -   -   +¦¦¦Asset
+-   -   -   -   -   -   +¦¦¦Common
+-   -   -   -   -   -   -   +¦¦¦Meta
+-   -   -   -   -   -   -   +¦¦¦Property
+-   -   -   -   -   -   -   L¦¦¦UnityObject
+-   -   -   -   -   -   +¦¦¦Content
+-   -   -   -   -   -   -   +¦¦¦Filtering
+-   -   -   -   -   -   -   +¦¦¦Meta
+-   -   -   -   -   -   -   +¦¦¦Property
+-   -   -   -   -   -   -   +¦¦¦Search
+-   -   -   -   -   -   -   L¦¦¦UnityObject
+-   -   -   -   -   -   L¦¦¦Diff
+-   -   -   -   -   -       +¦¦¦Filtering
+-   -   -   -   -   -       +¦¦¦Meta
+-   -   -   -   -   -       +¦¦¦Property
+-   -   -   -   -   -       +¦¦¦Search
+-   -   -   -   -   -       L¦¦¦UnityObject
+-   -   -   -   -   +¦¦¦History
+-   -   -   -   -   +¦¦¦Image
+-   -   -   -   -   -   +¦¦¦Toolbar
+-   -   -   -   -   -   L¦¦¦Views
+-   -   -   -   -   -       +¦¦¦Differences
+-   -   -   -   -   -       +¦¦¦ImageViewer
+-   -   -   -   -   -       +¦¦¦OnionSkin
+-   -   -   -   -   -       +¦¦¦SideBySide
+-   -   -   -   -   -       L¦¦¦Swipe
+-   -   -   -   -   +¦¦¦Purged
+-   -   -   -   -   +¦¦¦SyntaxHighlight
+-   -   -   -   -   L¦¦¦Text
+-   -   -   -   +¦¦¦Entities
+-   -   -   -   +¦¦¦Gluon
+-   -   -   -   -   L¦¦¦UpdateReport
+-   -   -   -   +¦¦¦Hashing
+-   -   -   -   +¦¦¦Headless
+-   -   -   -   +¦¦¦Hub
+-   -   -   -   -   L¦¦¦Operations
+-   -   -   -   +¦¦¦Inspector
+-   -   -   -   -   L¦¦¦Properties
+-   -   -   -   -       +¦¦¦Branch
+-   -   -   -   -       +¦¦¦Changeset
+-   -   -   -   -       L¦¦¦Label
+-   -   -   -   +¦¦¦Links
+-   -   -   -   +¦¦¦SceneView
+-   -   -   -   +¦¦¦Settings
+-   -   -   -   +¦¦¦StatusBar
+-   -   -   -   +¦¦¦Tool
+-   -   -   -   +¦¦¦Topbar
+-   -   -   -   +¦¦¦UI
+-   -   -   -   -   +¦¦¦Avatar
+-   -   -   -   -   +¦¦¦Errors
+-   -   -   -   -   +¦¦¦Progress
+-   -   -   -   -   +¦¦¦Tree
+-   -   -   -   -   +¦¦¦UIElements
+-   -   -   -   -   -   L¦¦¦Tree
+-   -   -   -   -   +¦¦¦UndoRedo
+-   -   -   -   -   L¦¦¦UnityInternals
+-   -   -   -   -       L¦¦¦UnityEditor
+-   -   -   -   -           L¦¦¦SceneManagement
+-   -   -   -   +¦¦¦UnityGateway
+-   -   -   -   +¦¦¦UnityInternals
+-   -   -   -   +¦¦¦UVCSToolbar
+-   -   -   -   -   L¦¦¦PopupWindow
+-   -   -   -   -       +¦¦¦BranchesList
+-   -   -   -   -       L¦¦¦Operations
+-   -   -   -   +¦¦¦Views
+-   -   -   -   -   +¦¦¦Attributes
+-   -   -   -   -   +¦¦¦Branch
+-   -   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   -   +¦¦¦BranchExplorer
+-   -   -   -   -   -   +¦¦¦Drawing
+-   -   -   -   -   -   -   L¦¦¦Shapes
+-   -   -   -   -   -   -       +¦¦¦Colors
+-   -   -   -   -   -   -       L¦¦¦Connections
+-   -   -   -   -   -   +¦¦¦Game
+-   -   -   -   -   -   +¦¦¦Menu
+-   -   -   -   -   -   +¦¦¦Options
+-   -   -   -   -   -   -   +¦¦¦ConditionalFormat
+-   -   -   -   -   -   -   L¦¦¦DisplayOptions
+-   -   -   -   -   -   +¦¦¦Virtualization
+-   -   -   -   -   -   L¦¦¦Zoom
+-   -   -   -   -   +¦¦¦BrowseRepository
+-   -   -   -   -   +¦¦¦Changesets
+-   -   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   -   +¦¦¦CreateWorkspace
+-   -   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   -   +¦¦¦Diff
+-   -   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   -   +¦¦¦Filters
+-   -   -   -   -   -   L¦¦¦Date
+-   -   -   -   -   +¦¦¦History
+-   -   -   -   -   +¦¦¦InviteMembers
+-   -   -   -   -   +¦¦¦Labels
+-   -   -   -   -   -   L¦¦¦Dialogs
+-   -   -   -   -   +¦¦¦Locks
+-   -   -   -   -   +¦¦¦Merge
+-   -   -   -   -   -   +¦¦¦Developer
+-   -   -   -   -   -   -   L¦¦¦DirectoryConflicts
+-   -   -   -   -   -   L¦¦¦Gluon
+-   -   -   -   -   +¦¦¦PendingChanges
+-   -   -   -   -   -   +¦¦¦Changelists
+-   -   -   -   -   -   +¦¦¦Dialogs
+-   -   -   -   -   -   L¦¦¦PendingMergeLinks
+-   -   -   -   -   +¦¦¦Properties
+-   -   -   -   -   +¦¦¦Shelves
+-   -   -   -   -   L¦¦¦Welcome
+-   -   -   -   +¦¦¦WebApi
+-   -   -   -   L¦¦¦_Deprecated
+-   -   -   -       +¦¦¦CollabMigration
+-   -   -   -       +¦¦¦Settings
+-   -   -   -       +¦¦¦UI
+-   -   -   -       L¦¦¦WebApi
+-   -   -   L¦¦¦Lib
+-   -   -       L¦¦¦Editor
+-   -   -           +¦¦¦Localization
+-   -   -           L¦¦¦TextMateSharp
+-   -   -               L¦¦¦Onigwrap
+-   -   -                   L¦¦¦libonigwrap
+-   -   -                       +¦¦¦osx-arm64
+-   -   -                       +¦¦¦osx-x64
+-   -   -                       +¦¦¦win-arm64
+-   -   -                       +¦¦¦win-x64
+-   -   -                       L¦¦¦win-x86
+-   -   +¦¦¦com.unity.collections@c70d71c1212e
+-   -   -   +¦¦¦ApiUpdater~
+-   -   -   +¦¦¦DocCodeSamples.Tests
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Unity.Collections
+-   -   -   -   L¦¦¦Jobs
+-   -   -   +¦¦¦Unity.Collections.BurstCompatibilityGen
+-   -   -   +¦¦¦Unity.Collections.CodeGen
+-   -   -   +¦¦¦Unity.Collections.Editor
+-   -   -   +¦¦¦Unity.Collections.LowLevel.ILSupport
+-   -   -   -   L¦¦¦source~
+-   -   -   -       +¦¦¦Unity.Collections.LowLevel.ILSupport
+-   -   -   -       L¦¦¦Unity.Collections.LowLevel.ILSupport.CodeGen
+-   -   -   +¦¦¦Unity.Collections.PerformanceTests
+-   -   -   -   L¦¦¦Unity.PerformanceTesting.Benchmark
+-   -   -   +¦¦¦Unity.Collections.PerformanceTests.Internal
+-   -   -   +¦¦¦Unity.Collections.Tests
+-   -   -   -   L¦¦¦Jobs
+-   -   -   -       L¦¦¦CoreCLRTestAssemblies
+-   -   -   -           +¦¦¦InternalJobNestedPrivate
+-   -   -   -           +¦¦¦PrivateJobNested
+-   -   -   -           +¦¦¦ProtectedJobNested
+-   -   -   -           L¦¦¦PublicJobPrivateGeneric
+-   -   -   L¦¦¦Unity.Collections.Tests.Playmode
+-   -   +¦¦¦com.unity.editorcoroutines@8cd72baa102a
+-   -   -   +¦¦¦Documentation~
+-   -   -   L¦¦¦Editor
+-   -   +¦¦¦com.unity.ext.nunit@0198eae3b53e
+-   -   -   +¦¦¦Documentation~
+-   -   -   L¦¦¦net472
+-   -   -       L¦¦¦unity-custom
+-   -   +¦¦¦com.unity.graph-authoring@cfd2588851ee
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦ProviderSystem
+-   -   -   -   L¦¦¦ShaderImplementation
+-   -   -   -       +¦¦¦Provider
+-   -   -   -       +¦¦¦Reflection
+-   -   -   -       L¦¦¦ShaderObjects
+-   -   -   -           L¦¦¦Hints
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.ide.rider@570989d4a882
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   L¦¦¦Rider
+-   -   -       L¦¦¦Editor
+-   -   -           +¦¦¦PostProcessors
+-   -   -           +¦¦¦ProjectGeneration
+-   -   -           +¦¦¦Properties
+-   -   -           +¦¦¦UnitTesting
+-   -   -           L¦¦¦Util
+-   -   +¦¦¦com.unity.ide.visualstudio@a99d56dec63f
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦Images
+-   -   -   L¦¦¦Editor
+-   -   -       +¦¦¦COMIntegration
+-   -   -       -   +¦¦¦COMIntegration~
+-   -   -       -   L¦¦¦Release
+-   -   -       +¦¦¦Messaging
+-   -   -       +¦¦¦ProjectGeneration
+-   -   -       +¦¦¦Testing
+-   -   -       L¦¦¦VSWhere
+-   -   +¦¦¦com.unity.inputsystem@2436e68c60c4
+-   -   -   +¦¦¦DocCodeSamples.Tests
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   +¦¦¦.vscode
+-   -   -   -   L¦¦¦Images
+-   -   -   +¦¦¦InputSystem
+-   -   -   -   +¦¦¦Actions
+-   -   -   -   +¦¦¦Editor
+-   -   -   -   -   +¦¦¦Actions
+-   -   -   -   -   -   +¦¦¦Composites
+-   -   -   -   -   -   L¦¦¦Interactions
+-   -   -   -   -   +¦¦¦Analytics
+-   -   -   -   -   +¦¦¦AssetEditor
+-   -   -   -   -   -   L¦¦¦PackageResources
+-   -   -   -   -   -       +¦¦¦personal
+-   -   -   -   -   -       L¦¦¦pro
+-   -   -   -   -   +¦¦¦AssetImporter
+-   -   -   -   -   +¦¦¦BuildPipeline
+-   -   -   -   -   +¦¦¦ControlPicker
+-   -   -   -   -   -   L¦¦¦Layouts
+-   -   -   -   -   +¦¦¦Controls
+-   -   -   -   -   -   L¦¦¦Processors
+-   -   -   -   -   +¦¦¦Debugger
+-   -   -   -   -   +¦¦¦Devices
+-   -   -   -   -   -   L¦¦¦Remote
+-   -   -   -   -   +¦¦¦DeviceSimulator
+-   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   +¦¦¦Internal
+-   -   -   -   -   -   L¦¦¦AdvancedDropdown
+-   -   -   -   -   +¦¦¦Plugins
+-   -   -   -   -   -   +¦¦¦EnhancedTouch
+-   -   -   -   -   -   +¦¦¦HID
+-   -   -   -   -   -   +¦¦¦InputForUI
+-   -   -   -   -   -   +¦¦¦iOS
+-   -   -   -   -   -   +¦¦¦OnScreen
+-   -   -   -   -   -   +¦¦¦PlayerInput
+-   -   -   -   -   -   +¦¦¦Steam
+-   -   -   -   -   -   +¦¦¦UI
+-   -   -   -   -   -   L¦¦¦UnityRemote
+-   -   -   -   -   +¦¦¦ProjectWideActions
+-   -   -   -   -   +¦¦¦PropertyDrawers
+-   -   -   -   -   +¦¦¦Settings
+-   -   -   -   -   +¦¦¦UITKAssetEditor
+-   -   -   -   -   -   +¦¦¦Commands
+-   -   -   -   -   -   +¦¦¦PackageResources
+-   -   -   -   -   -   L¦¦¦Views
+-   -   -   -   -   L¦¦¦Utilities
+-   -   -   -   L¦¦¦Runtime
+-   -   -   -       +¦¦¦Actions
+-   -   -   -       -   +¦¦¦Composites
+-   -   -   -       -   L¦¦¦Interactions
+-   -   -   -       +¦¦¦Controls
+-   -   -   -       -   L¦¦¦Processors
+-   -   -   -       +¦¦¦Devices
+-   -   -   -       -   +¦¦¦Commands
+-   -   -   -       -   +¦¦¦Haptics
+-   -   -   -       -   +¦¦¦Precompiled
+-   -   -   -       -   L¦¦¦Remote
+-   -   -   -       +¦¦¦Events
+-   -   -   -       +¦¦¦Plugins
+-   -   -   -       -   +¦¦¦Android
+-   -   -   -       -   +¦¦¦DualShock
+-   -   -   -       -   +¦¦¦EnhancedTouch
+-   -   -   -       -   +¦¦¦HID
+-   -   -   -       -   +¦¦¦InputForUI
+-   -   -   -       -   +¦¦¦iOS
+-   -   -   -       -   +¦¦¦Linux
+-   -   -   -       -   +¦¦¦OnScreen
+-   -   -   -       -   +¦¦¦OSX
+-   -   -   -       -   +¦¦¦PlayerInput
+-   -   -   -       -   +¦¦¦Steam
+-   -   -   -       -   +¦¦¦Switch
+-   -   -   -       -   +¦¦¦UI
+-   -   -   -       -   +¦¦¦Users
+-   -   -   -       -   +¦¦¦WebGL
+-   -   -   -       -   +¦¦¦XInput
+-   -   -   -       -   L¦¦¦XR
+-   -   -   -       -       +¦¦¦Controls
+-   -   -   -       -       +¦¦¦Devices
+-   -   -   -       -       L¦¦¦Haptics
+-   -   -   -       +¦¦¦State
+-   -   -   -       L¦¦¦Utilities
+-   -   -   -           L¦¦¦Observables
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦CustomComposite
+-   -   -   -   +¦¦¦CustomDevice
+-   -   -   -   +¦¦¦CustomDeviceUsages
+-   -   -   -   +¦¦¦GamepadMouseCursor
+-   -   -   -   +¦¦¦IMEInput
+-   -   -   -   +¦¦¦InGameHints
+-   -   -   -   +¦¦¦InputDeviceTester
+-   -   -   -   +¦¦¦InputRecorder
+-   -   -   -   +¦¦¦LightbarAndRumble
+-   -   -   -   +¦¦¦OnScreenControls
+-   -   -   -   +¦¦¦ProjectWideActions
+-   -   -   -   +¦¦¦RebindingUI
+-   -   -   -   -   +¦¦¦Game
+-   -   -   -   -   L¦¦¦Icons
+-   -   -   -   +¦¦¦SimpleDemo
+-   -   -   -   +¦¦¦SimpleMultiplayer
+-   -   -   -   +¦¦¦TouchSamples
+-   -   -   -   +¦¦¦UIvsGameInput
+-   -   -   -   +¦¦¦UnityRemote
+-   -   -   -   L¦¦¦Visualizers
+-   -   -   L¦¦¦Tests
+-   -   -       +¦¦¦IntegrationTests
+-   -   -       L¦¦¦TestFixture
+-   -   +¦¦¦com.unity.learn.iet-framework@96330db47073
+-   -   -   +¦¦¦.TemplateAssets
+-   -   -   +¦¦¦DefaultAssets
+-   -   -   -   +¦¦¦Layouts
+-   -   -   -   L¦¦¦MaskingPresets
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   +¦¦¦images
+-   -   -   -   L¦¦¦old_img
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Components
+-   -   -   -   +¦¦¦Controllers
+-   -   -   -   +¦¦¦Core
+-   -   -   -   -   +¦¦¦Data
+-   -   -   -   -   L¦¦¦Paragraphs
+-   -   -   -   +¦¦¦Criteria
+-   -   -   -   +¦¦¦Editors
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   +¦¦¦Localization
+-   -   -   -   +¦¦¦Masking
+-   -   -   -   +¦¦¦Models
+-   -   -   -   +¦¦¦Obsolete
+-   -   -   -   +¦¦¦Property Attributes
+-   -   -   -   +¦¦¦Property Drawers
+-   -   -   -   +¦¦¦ThirdParty
+-   -   -   -   -   L¦¦¦SerializableCallback
+-   -   -   -   -       +¦¦¦Attributes
+-   -   -   -   -       L¦¦¦Editor
+-   -   -   -   +¦¦¦UI
+-   -   -   -   -   +¦¦¦CustomControls
+-   -   -   -   -   -   L¦¦¦VideoPlayer
+-   -   -   -   -   +¦¦¦Images
+-   -   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   -   -   +¦¦¦AssetTypes
+-   -   -   -   -   -   -   L¦¦¦Authoring
+-   -   -   -   -   -   L¦¦¦Tutorials
+-   -   -   -   -   -       +¦¦¦Headers
+-   -   -   -   -   -       L¦¦¦Icons
+-   -   -   -   -   +¦¦¦OverviewWindow
+-   -   -   -   -   +¦¦¦Stylesheets
+-   -   -   -   -   L¦¦¦Uxmls
+-   -   -   -   -       L¦¦¦Paragraphs
+-   -   -   -   +¦¦¦Utils
+-   -   -   -   L¦¦¦Views
+-   -   -   +¦¦¦Runtime
+-   -   -   -   L¦¦¦InternalBridge
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.mathematics@8306a64d0cd6
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Tests
+-   -   -   -   L¦¦¦Editor
+-   -   -   L¦¦¦Unity.Mathematics
+-   -   +¦¦¦com.unity.modules.accessibility
+-   -   +¦¦¦com.unity.modules.adaptiveperformance
+-   -   +¦¦¦com.unity.modules.ai
+-   -   +¦¦¦com.unity.modules.androidjni
+-   -   +¦¦¦com.unity.modules.animation
+-   -   +¦¦¦com.unity.modules.assetbundle
+-   -   +¦¦¦com.unity.modules.audio
+-   -   +¦¦¦com.unity.modules.cloth
+-   -   +¦¦¦com.unity.modules.director
+-   -   +¦¦¦com.unity.modules.hierarchycore
+-   -   +¦¦¦com.unity.modules.imageconversion
+-   -   +¦¦¦com.unity.modules.imgui
+-   -   +¦¦¦com.unity.modules.jsonserialize
+-   -   +¦¦¦com.unity.modules.particlesystem
+-   -   +¦¦¦com.unity.modules.physics
+-   -   +¦¦¦com.unity.modules.physics2d
+-   -   +¦¦¦com.unity.modules.physicscore2d
+-   -   +¦¦¦com.unity.modules.screencapture
+-   -   +¦¦¦com.unity.modules.subsystems
+-   -   +¦¦¦com.unity.modules.terrain
+-   -   +¦¦¦com.unity.modules.terrainphysics
+-   -   +¦¦¦com.unity.modules.tetgen
+-   -   +¦¦¦com.unity.modules.tilemap
+-   -   +¦¦¦com.unity.modules.timelinefoundation
+-   -   +¦¦¦com.unity.modules.ui
+-   -   +¦¦¦com.unity.modules.uielements
+-   -   +¦¦¦com.unity.modules.umbra
+-   -   +¦¦¦com.unity.modules.unityanalytics
+-   -   +¦¦¦com.unity.modules.unitywebrequest
+-   -   +¦¦¦com.unity.modules.unitywebrequestassetbundle
+-   -   +¦¦¦com.unity.modules.unitywebrequestaudio
+-   -   +¦¦¦com.unity.modules.unitywebrequesttexture
+-   -   +¦¦¦com.unity.modules.unitywebrequestwww
+-   -   +¦¦¦com.unity.modules.vectorgraphics
+-   -   +¦¦¦com.unity.modules.vehicles
+-   -   +¦¦¦com.unity.modules.video
+-   -   +¦¦¦com.unity.modules.wind
+-   -   +¦¦¦com.unity.modules.xr
+-   -   +¦¦¦com.unity.nuget.mono-cecil@ecb9724e46ff
+-   -   -   +¦¦¦Documentation~
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.profiling.core@8a49f7027d06
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   L¦¦¦Runtime
+-   -   +¦¦¦com.unity.render-pipelines.core@edeb2f5104db
+-   -   -   +¦¦¦ApiUpdater~
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   +¦¦¦Common
+-   -   -   -   -   L¦¦¦images
+-   -   -   -   +¦¦¦Examples
+-   -   -   -   +¦¦¦Images
+-   -   -   -   -   +¦¦¦Preferences
+-   -   -   -   -   L¦¦¦videos
+-   -   -   -   L¦¦¦UnifiedRayTracing
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Analytics
+-   -   -   -   +¦¦¦BuildProcessors
+-   -   -   -   -   +¦¦¦SettingsStrippers
+-   -   -   -   -   L¦¦¦ShaderStrippers
+-   -   -   -   +¦¦¦Camera
+-   -   -   -   +¦¦¦CommandBuffers
+-   -   -   -   -   L¦¦¦CommandBufferGenerator
+-   -   -   -   +¦¦¦Controls
+-   -   -   -   +¦¦¦CustomRenderTexture
+-   -   -   -   +¦¦¦Debugging
+-   -   -   -   +¦¦¦Gizmo
+-   -   -   -   +¦¦¦GPUDriven
+-   -   -   -   +¦¦¦Icons
+-   -   -   -   -   +¦¦¦MipLevels
+-   -   -   -   -   -   L¦¦¦RenderGraphViewer
+-   -   -   -   -   +¦¦¦Processed
+-   -   -   -   -   L¦¦¦RenderGraphViewer
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   +¦¦¦Lighting
+-   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   -   L¦¦¦LightUnitIcons
+-   -   -   -   -   +¦¦¦LightUnit
+-   -   -   -   -   +¦¦¦ProbeVolume
+-   -   -   -   -   -   +¦¦¦DynamicGI
+-   -   -   -   -   -   +¦¦¦RenderingLayerMask
+-   -   -   -   -   -   L¦¦¦VirtualOffset
+-   -   -   -   -   L¦¦¦Shadow
+-   -   -   -   +¦¦¦Material
+-   -   -   -   +¦¦¦PathTracing
+-   -   -   -   -   L¦¦¦Debugging
+-   -   -   -   +¦¦¦PostProcessing
+-   -   -   -   -   L¦¦¦LensFlareResource
+-   -   -   -   +¦¦¦Properties
+-   -   -   -   +¦¦¦PropertyDrawers
+-   -   -   -   +¦¦¦RenderGraph
+-   -   -   -   +¦¦¦Resources
+-   -   -   -   -   L¦¦¦Gizmos
+-   -   -   -   +¦¦¦SampleDependencyImportSystem
+-   -   -   -   +¦¦¦ScriptTemplates
+-   -   -   -   +¦¦¦Settings
+-   -   -   -   -   L¦¦¦PropertyDrawers
+-   -   -   -   +¦¦¦ShaderGenerator
+-   -   -   -   +¦¦¦ShaderStripping
+-   -   -   -   +¦¦¦STP
+-   -   -   -   +¦¦¦StyleSheets
+-   -   -   -   +¦¦¦Tools
+-   -   -   -   -   L¦¦¦MaterialUpgrader
+-   -   -   -   +¦¦¦UnifiedRayTracing
+-   -   -   -   +¦¦¦Upscaling
+-   -   -   -   +¦¦¦Utilities
+-   -   -   -   +¦¦¦UXML
+-   -   -   -   L¦¦¦Volume
+-   -   -   -       L¦¦¦Drawers
+-   -   -   +¦¦¦Editor-PrivateShared
+-   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   L¦¦¦Tools
+-   -   -   -       L¦¦¦Converter
+-   -   -   -           +¦¦¦ReadonlyMaterialConverter
+-   -   -   -           L¦¦¦Window
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦Camera
+-   -   -   -   +¦¦¦CommandBuffers
+-   -   -   -   +¦¦¦Common
+-   -   -   -   +¦¦¦Debug
+-   -   -   -   +¦¦¦Debugging
+-   -   -   -   -   +¦¦¦FrameTiming
+-   -   -   -   -   L¦¦¦Runtime UI Resources
+-   -   -   -   +¦¦¦GPUDriven
+-   -   -   -   -   +¦¦¦Batching
+-   -   -   -   -   +¦¦¦Components
+-   -   -   -   -   +¦¦¦CoreDataSystems
+-   -   -   -   -   +¦¦¦Culling
+-   -   -   -   -   +¦¦¦Debug
+-   -   -   -   -   +¦¦¦SceneProcessors
+-   -   -   -   -   L¦¦¦Utilities
+-   -   -   -   +¦¦¦Inputs
+-   -   -   -   +¦¦¦Lighting
+-   -   -   -   -   +¦¦¦ProbeVolume
+-   -   -   -   -   L¦¦¦SurfaceCache
+-   -   -   -   +¦¦¦Lights
+-   -   -   -   +¦¦¦LookDev
+-   -   -   -   +¦¦¦ObjectDispatcher
+-   -   -   -   +¦¦¦PathTracing
+-   -   -   -   -   +¦¦¦Core
+-   -   -   -   -   +¦¦¦Environment
+-   -   -   -   -   +¦¦¦Lightmapping
+-   -   -   -   -   +¦¦¦MaterialPool
+-   -   -   -   -   +¦¦¦Meshes
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   -       L¦¦¦Lightmapping
+-   -   -   -   +¦¦¦PostProcessing
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   -       L¦¦¦ffx
+-   -   -   -   +¦¦¦RenderGraph
+-   -   -   -   -   +¦¦¦Compiler
+-   -   -   -   -   L¦¦¦Debug
+-   -   -   -   +¦¦¦RenderPipeline
+-   -   -   -   +¦¦¦RenderPipelineResources
+-   -   -   -   -   +¦¦¦GPUDriven
+-   -   -   -   -   L¦¦¦Mesh
+-   -   -   -   +¦¦¦Sampling
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -       L¦¦¦SobolBlueNoise
+-   -   -   -   +¦¦¦Settings
+-   -   -   -   +¦¦¦ShaderGenerator
+-   -   -   -   +¦¦¦ShaderLibrary
+-   -   -   -   -   L¦¦¦Sampling
+-   -   -   -   +¦¦¦STP
+-   -   -   -   +¦¦¦Stripping
+-   -   -   -   +¦¦¦Textures
+-   -   -   -   +¦¦¦UnifiedRayTracing
+-   -   -   -   -   +¦¦¦Common
+-   -   -   -   -   -   +¦¦¦GeometryPool
+-   -   -   -   -   -   L¦¦¦Utilities
+-   -   -   -   -   +¦¦¦Compute
+-   -   -   -   -   -   L¦¦¦RadeonRays
+-   -   -   -   -   -       L¦¦¦kernels
+-   -   -   -   -   L¦¦¦Hardware
+-   -   -   -   +¦¦¦Upscaling
+-   -   -   -   +¦¦¦Utilities
+-   -   -   -   -   +¦¦¦GPUPrefixSum
+-   -   -   -   -   L¦¦¦GPUSort
+-   -   -   -   +¦¦¦Volume
+-   -   -   -   +¦¦¦Vrs
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   L¦¦¦XR
+-   -   -   +¦¦¦Runtime-PrivateShared
+-   -   -   -   L¦¦¦InternalBridge
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦Common
+-   -   -   -   -   +¦¦¦Materials
+-   -   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   -   +¦¦¦Models
+-   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   -   +¦¦¦Info
+-   -   -   -   -   -   +¦¦¦Presentation
+-   -   -   -   -   -   L¦¦¦UnityBall
+-   -   -   -   -   +¦¦¦Scripts
+-   -   -   -   -   -   +¦¦¦Editor
+-   -   -   -   -   -   +¦¦¦RequiredSettings
+-   -   -   -   -   -   L¦¦¦Resources
+-   -   -   -   -   +¦¦¦TextMesh Pro
+-   -   -   -   -   -   L¦¦¦Resources
+-   -   -   -   -   -       L¦¦¦Fonts & Materials
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   L¦¦¦RendererShaderUserValue_Common
+-   -   -   -       +¦¦¦Animation
+-   -   -   -       +¦¦¦Materials
+-   -   -   -       -   +¦¦¦Agora
+-   -   -   -       -   +¦¦¦LookDev
+-   -   -   -       -   +¦¦¦ShaderGraphs
+-   -   -   -       -   +¦¦¦Soldier
+-   -   -   -       -   L¦¦¦SubGraphs
+-   -   -   -       +¦¦¦Models
+-   -   -   -       -   L¦¦¦Agora
+-   -   -   -       +¦¦¦Prefabs
+-   -   -   -       +¦¦¦Scripts
+-   -   -   -       -   L¦¦¦CustomFunctions
+-   -   -   -       +¦¦¦Settings
+-   -   -   -       L¦¦¦Textures
+-   -   -   +¦¦¦ShaderLibrary
+-   -   -   -   +¦¦¦API
+-   -   -   -   +¦¦¦Sampling
+-   -   -   -   L¦¦¦Shadow
+-   -   -   +¦¦¦Shaders
+-   -   -   L¦¦¦Tests
+-   -   -       +¦¦¦Editor
+-   -   -       -   +¦¦¦Analytics
+-   -   -       -   +¦¦¦Debugging
+-   -   -       -   +¦¦¦GPUDriven
+-   -   -       -   +¦¦¦PathTracing
+-   -   -       -   -   L¦¦¦Shaders
+-   -   -       -   +¦¦¦RenderPipeline
+-   -   -       -   -   L¦¦¦SettingsStrippingResults
+-   -   -       -   +¦¦¦ShaderStripping
+-   -   -       -   -   L¦¦¦Results
+-   -   -       -   +¦¦¦Tools
+-   -   -       -   -   +¦¦¦Converter
+-   -   -       -   -   L¦¦¦MaterialUpgrader
+-   -   -       -   +¦¦¦UnifiedRayTracing
+-   -   -       -   +¦¦¦Utilities
+-   -   -       -   +¦¦¦Volumes
+-   -   -       -   L¦¦¦XR
+-   -   -       L¦¦¦Runtime
+-   -   -           +¦¦¦Debugging
+-   -   -           +¦¦¦PathTracing
+-   -   -           +¦¦¦SurfaceCache
+-   -   -           L¦¦¦Threading
+-   -   +¦¦¦com.unity.render-pipelines.universal-config@561422b74439
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Runtime
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.render-pipelines.universal@bb605c4bc710
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦2D
+-   -   -   -   -   +¦¦¦Converter
+-   -   -   -   -   +¦¦¦LightBatchingDebugger
+-   -   -   -   -   +¦¦¦Overrides
+-   -   -   -   -   +¦¦¦PackageResources
+-   -   -   -   -   -   L¦¦¦ProfilerIcon
+-   -   -   -   -   +¦¦¦Profiler
+-   -   -   -   -   -   L¦¦¦UI
+-   -   -   -   -   -       +¦¦¦U2DGraphicsHierarchyView
+-   -   -   -   -   -       +¦¦¦U2DGraphicsProfilerView
+-   -   -   -   -   -       L¦¦¦U2DGraphicsStatisticView
+-   -   -   -   -   +¦¦¦Provider2D
+-   -   -   -   -   +¦¦¦ResourceIcons
+-   -   -   -   -   -   +¦¦¦InspectorIcons
+-   -   -   -   -   -   L¦¦¦SceneViewIcons
+-   -   -   -   -   +¦¦¦ShaderGraph
+-   -   -   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   -   -   +¦¦¦Includes
+-   -   -   -   -   -   +¦¦¦Nodes
+-   -   -   -   -   -   L¦¦¦Targets
+-   -   -   -   -   L¦¦¦Shadows
+-   -   -   -   +¦¦¦Analytics
+-   -   -   -   +¦¦¦AssetPostProcessors
+-   -   -   -   +¦¦¦BuildProcessors
+-   -   -   -   -   L¦¦¦GraphicsSettingsStrippers
+-   -   -   -   +¦¦¦Camera
+-   -   -   -   +¦¦¦Decal
+-   -   -   -   -   L¦¦¦Resources
+-   -   -   -   +¦¦¦DefaultScene
+-   -   -   -   +¦¦¦Gizmos
+-   -   -   -   +¦¦¦Lighting
+-   -   -   -   +¦¦¦Overrides
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   +¦¦¦RendererFeatures
+-   -   -   -   +¦¦¦SceneTemplates
+-   -   -   -   -   +¦¦¦Indoors
+-   -   -   -   -   +¦¦¦Materials
+-   -   -   -   -   L¦¦¦Standard
+-   -   -   -   +¦¦¦ScriptTemplates
+-   -   -   -   +¦¦¦Settings
+-   -   -   -   -   L¦¦¦PropertyDrawers
+-   -   -   -   +¦¦¦ShaderGraph
+-   -   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   -   +¦¦¦GraphTemplates
+-   -   -   -   -   -   L¦¦¦2D
+-   -   -   -   -   +¦¦¦Includes
+-   -   -   -   -   -   L¦¦¦Terrain
+-   -   -   -   -   +¦¦¦Nodes
+-   -   -   -   -   +¦¦¦Targets
+-   -   -   -   -   L¦¦¦Templates
+-   -   -   -   +¦¦¦ShaderGUI
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   L¦¦¦ShadingModels
+-   -   -   -   +¦¦¦Terrain
+-   -   -   -   +¦¦¦Tools
+-   -   -   -   -   +¦¦¦Converters
+-   -   -   -   -   -   +¦¦¦AnimationClipConverter
+-   -   -   -   -   -   L¦¦¦PPv2
+-   -   -   -   -   -       L¦¦¦EffectConverters
+-   -   -   -   -   +¦¦¦MaterialUpgrader
+-   -   -   -   -   L¦¦¦Project Auditor
+-   -   -   -   +¦¦¦UniversalRenderPipelineAsset
+-   -   -   -   +¦¦¦VFXGraph
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   -       L¦¦¦Templates
+-   -   -   -   -           +¦¦¦ParticleHexahedron
+-   -   -   -   -           +¦¦¦ParticleLines
+-   -   -   -   -           +¦¦¦ParticleLinesSW
+-   -   -   -   -           +¦¦¦ParticleMeshes
+-   -   -   -   -           +¦¦¦ParticleMeshesLit
+-   -   -   -   -           +¦¦¦ParticlePlanarPrimitives
+-   -   -   -   -           +¦¦¦ParticlePlanarPrimitivesLit
+-   -   -   -   -           +¦¦¦ParticlePoints
+-   -   -   -   -           L¦¦¦URPDecal
+-   -   -   -   L¦¦¦Volume
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦2D
+-   -   -   -   -   +¦¦¦FrameData
+-   -   -   -   -   +¦¦¦Lights
+-   -   -   -   -   -   L¦¦¦Providers
+-   -   -   -   -   +¦¦¦Passes
+-   -   -   -   -   -   L¦¦¦Utility
+-   -   -   -   -   +¦¦¦Profiler
+-   -   -   -   -   +¦¦¦RendererFeatures
+-   -   -   -   -   +¦¦¦Rendergraph
+-   -   -   -   -   +¦¦¦Shadows
+-   -   -   -   -   -   +¦¦¦Providers
+-   -   -   -   -   -   L¦¦¦Shadow Provider Utility
+-   -   -   -   -   L¦¦¦Sources
+-   -   -   -   +¦¦¦Data
+-   -   -   -   +¦¦¦Debug
+-   -   -   -   +¦¦¦Decal
+-   -   -   -   -   +¦¦¦DBuffer
+-   -   -   -   -   +¦¦¦Entities
+-   -   -   -   -   L¦¦¦ScreenSpace
+-   -   -   -   +¦¦¦FrameData
+-   -   -   -   +¦¦¦History
+-   -   -   -   +¦¦¦Materials
+-   -   -   -   -   +¦¦¦ArnoldStandardSurface
+-   -   -   -   -   L¦¦¦PhysicalMaterial3DsMax
+-   -   -   -   +¦¦¦Memory
+-   -   -   -   +¦¦¦MipGen
+-   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   +¦¦¦Overrides
+-   -   -   -   +¦¦¦Passes
+-   -   -   -   -   +¦¦¦PostProcess
+-   -   -   -   -   L¦¦¦ScreenSpaceAmbientOcclusion
+-   -   -   -   +¦¦¦RendererFeatures
+-   -   -   -   -   +¦¦¦ScreenSpaceReflectionRendererFeature
+-   -   -   -   -   L¦¦¦SurfaceCacheGIRendererFeature
+-   -   -   -   +¦¦¦RenderPipelineResources
+-   -   -   -   +¦¦¦Settings
+-   -   -   -   +¦¦¦Tiling
+-   -   -   -   +¦¦¦VFXGraph
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   L¦¦¦Utility
+-   -   -   -   -       L¦¦¦PropertyBinders
+-   -   -   -   L¦¦¦XR
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦RendererShaderUserValueSamples
+-   -   -   -   -   +¦¦¦Scenes
+-   -   -   -   -   L¦¦¦Settings
+-   -   -   -   +¦¦¦URPPackageSamples
+-   -   -   -   -   +¦¦¦CameraStacking
+-   -   -   -   -   -   +¦¦¦3D Skybox
+-   -   -   -   -   -   -   +¦¦¦3DSkybox
+-   -   -   -   -   -   -   +¦¦¦Animation
+-   -   -   -   -   -   -   +¦¦¦Materials
+-   -   -   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   -   -   +¦¦¦Scripts
+-   -   -   -   -   -   -   L¦¦¦Shaders
+-   -   -   -   -   -   +¦¦¦MixedFOV
+-   -   -   -   -   -   -   +¦¦¦MixedFOV
+-   -   -   -   -   -   -   L¦¦¦Prefabs
+-   -   -   -   -   -   L¦¦¦SplitScreen
+-   -   -   -   -   -       L¦¦¦SplitScreen
+-   -   -   -   -   +¦¦¦Decals
+-   -   -   -   -   -   +¦¦¦BlobShadow
+-   -   -   -   -   -   -   +¦¦¦Animation
+-   -   -   -   -   -   -   L¦¦¦BlobShadow
+-   -   -   -   -   -   +¦¦¦PaintSplat
+-   -   -   -   -   -   -   L¦¦¦PaintSplat
+-   -   -   -   -   -   L¦¦¦ProxyLighting
+-   -   -   -   -   -       +¦¦¦Materials
+-   -   -   -   -   -       L¦¦¦Shaders
+-   -   -   -   -   +¦¦¦LensFlares
+-   -   -   -   -   -   +¦¦¦Animation
+-   -   -   -   -   -   +¦¦¦LensFlarePresets
+-   -   -   -   -   -   +¦¦¦Scripts
+-   -   -   -   -   -   +¦¦¦SunFlare
+-   -   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -   +¦¦¦Lighting
+-   -   -   -   -   -   L¦¦¦Reflection Probes
+-   -   -   -   -   -       +¦¦¦Animation
+-   -   -   -   -   -       +¦¦¦Reflection Probes
+-   -   -   -   -   -       L¦¦¦Scene Materials
+-   -   -   -   -   +¦¦¦RendererFeatures
+-   -   -   -   -   -   +¦¦¦AmbientOcclusion
+-   -   -   -   -   -   -   +¦¦¦AmbientOcclusion
+-   -   -   -   -   -   -   L¦¦¦Animation
+-   -   -   -   -   -   +¦¦¦BlitToRTHandle
+-   -   -   -   -   -   +¦¦¦DepthBlit
+-   -   -   -   -   -   +¦¦¦DistortTunnel
+-   -   -   -   -   -   -   L¦¦¦Plane
+-   -   -   -   -   -   +¦¦¦GlitchEffect
+-   -   -   -   -   -   -   L¦¦¦GlitchEffect
+-   -   -   -   -   -   +¦¦¦KeepFrame
+-   -   -   -   -   -   +¦¦¦OcclusionEffect
+-   -   -   -   -   -   -   +¦¦¦Animation
+-   -   -   -   -   -   -   L¦¦¦OcclusionEffect
+-   -   -   -   -   -   L¦¦¦TrailEffect
+-   -   -   -   -   -       +¦¦¦Animation
+-   -   -   -   -   -       +¦¦¦Shaders
+-   -   -   -   -   -       L¦¦¦TrailEffect
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   -   L¦¦¦Lit
+-   -   -   -   -   -       +¦¦¦Lit
+-   -   -   -   -   -       +¦¦¦Materials
+-   -   -   -   -   -       +¦¦¦Models
+-   -   -   -   -   -       +¦¦¦Prefabs
+-   -   -   -   -   -       L¦¦¦Textures
+-   -   -   -   -   L¦¦¦SharedAssets
+-   -   -   -   -       +¦¦¦Fonts
+-   -   -   -   -       +¦¦¦Materials
+-   -   -   -   -       +¦¦¦Prefabs
+-   -   -   -   -       +¦¦¦Scripts
+-   -   -   -   -       +¦¦¦Settings
+-   -   -   -   -       +¦¦¦Shaders
+-   -   -   -   -       L¦¦¦Textures
+-   -   -   -   L¦¦¦URPRenderGraphSamples
+-   -   -   -       +¦¦¦Blit
+-   -   -   -       +¦¦¦BlitWithFrameData
+-   -   -   -       +¦¦¦BlitWithMaterial
+-   -   -   -       +¦¦¦Compute
+-   -   -   -       +¦¦¦ComputeShaderScreenInOutRenderFeature
+-   -   -   -       +¦¦¦Culling
+-   -   -   -       +¦¦¦FramebufferFetch
+-   -   -   -       +¦¦¦GbufferVisualization
+-   -   -   -       +¦¦¦GlobalGbuffers
+-   -   -   -       +¦¦¦MRT
+-   -   -   -       +¦¦¦OutputTexture
+-   -   -   -       +¦¦¦RendererList
+-   -   -   -       +¦¦¦TextureReferenceWithFrameData
+-   -   -   -       L¦¦¦UnsafePass
+-   -   -   +¦¦¦ShaderLibrary
+-   -   -   -   +¦¦¦Debug
+-   -   -   -   L¦¦¦LightCookie
+-   -   -   +¦¦¦Shaders
+-   -   -   -   +¦¦¦2D
+-   -   -   -   -   L¦¦¦Include
+-   -   -   -   +¦¦¦AutodeskInteractive
+-   -   -   -   +¦¦¦Debug
+-   -   -   -   +¦¦¦Nature
+-   -   -   -   +¦¦¦Particles
+-   -   -   -   +¦¦¦PostProcessing
+-   -   -   -   +¦¦¦Terrain
+-   -   -   -   +¦¦¦Utils
+-   -   -   -   L¦¦¦XR
+-   -   -   +¦¦¦Tests
+-   -   -   -   +¦¦¦Editor
+-   -   -   -   -   +¦¦¦PostProcessDataTests
+-   -   -   -   -   +¦¦¦Tools
+-   -   -   -   -   -   +¦¦¦Converters
+-   -   -   -   -   -   -   +¦¦¦AnimationClipConverter
+-   -   -   -   -   -   -   +¦¦¦MaterialUpgrader
+-   -   -   -   -   -   -   L¦¦¦ReadonlyMaterialConverter
+-   -   -   -   -   -   L¦¦¦ProjectAuditor
+-   -   -   -   -   L¦¦¦URPGlobalSettingsMigrationTests
+-   -   -   -   L¦¦¦Runtime
+-   -   -   L¦¦¦Textures
+-   -   -       +¦¦¦2D
+-   -   -       +¦¦¦BlueNoise16
+-   -   -       -   L¦¦¦L
+-   -   -       +¦¦¦BlueNoise256
+-   -   -       +¦¦¦BlueNoise64
+-   -   -       -   L¦¦¦L
+-   -   -       +¦¦¦FilmGrain
+-   -   -       L¦¦¦SMAA
+-   -   +¦¦¦com.unity.searcher@a463122f2c00
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Resources
+-   -   -   -   -   L¦¦¦FlatSkin
+-   -   -   -   -       L¦¦¦Font
+-   -   -   -   L¦¦¦Searcher
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Resources
+-   -   -   -   L¦¦¦Scripts
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.settings-manager@0b8638c5ce86
+-   -   -   +¦¦¦Content
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦MultipleProjectSettingFiles
+-   -   -   -   L¦¦¦PackageWithProjectAndUserSettings
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   +¦¦¦com.unity.shadergraph@807b608040c3
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   +¦¦¦images
+-   -   -   -   L¦¦¦snippets
+-   -   -   -       L¦¦¦sample-nodes
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   +¦¦¦Data
+-   -   -   -   -   +¦¦¦Actions
+-   -   -   -   -   +¦¦¦Attributes
+-   -   -   -   -   +¦¦¦Enumerations
+-   -   -   -   -   +¦¦¦Graphs
+-   -   -   -   -   +¦¦¦Implementation
+-   -   -   -   -   +¦¦¦Interfaces
+-   -   -   -   -   -   L¦¦¦Graph
+-   -   -   -   -   +¦¦¦Legacy
+-   -   -   -   -   +¦¦¦Nodes
+-   -   -   -   -   -   +¦¦¦Artistic
+-   -   -   -   -   -   -   +¦¦¦Adjustment
+-   -   -   -   -   -   -   +¦¦¦Blend
+-   -   -   -   -   -   -   +¦¦¦Filter
+-   -   -   -   -   -   -   +¦¦¦Mask
+-   -   -   -   -   -   -   +¦¦¦Normal
+-   -   -   -   -   -   -   L¦¦¦Utility
+-   -   -   -   -   -   +¦¦¦Channel
+-   -   -   -   -   -   +¦¦¦Input
+-   -   -   -   -   -   -   +¦¦¦Basic
+-   -   -   -   -   -   -   +¦¦¦Geometry
+-   -   -   -   -   -   -   +¦¦¦Gradient
+-   -   -   -   -   -   -   +¦¦¦Lighting
+-   -   -   -   -   -   -   +¦¦¦Matrix
+-   -   -   -   -   -   -   +¦¦¦PBR
+-   -   -   -   -   -   -   +¦¦¦Scene
+-   -   -   -   -   -   -   +¦¦¦Texture
+-   -   -   -   -   -   -   L¦¦¦UI
+-   -   -   -   -   -   +¦¦¦Math
+-   -   -   -   -   -   -   +¦¦¦Advanced
+-   -   -   -   -   -   -   +¦¦¦Basic
+-   -   -   -   -   -   -   +¦¦¦Derivative
+-   -   -   -   -   -   -   +¦¦¦Interpolation
+-   -   -   -   -   -   -   +¦¦¦Matrix
+-   -   -   -   -   -   -   +¦¦¦Range
+-   -   -   -   -   -   -   +¦¦¦Round
+-   -   -   -   -   -   -   +¦¦¦Trigonometry
+-   -   -   -   -   -   -   +¦¦¦Vector
+-   -   -   -   -   -   -   L¦¦¦Wave
+-   -   -   -   -   -   +¦¦¦MeshDeformation
+-   -   -   -   -   -   +¦¦¦Procedural
+-   -   -   -   -   -   -   +¦¦¦Noise
+-   -   -   -   -   -   -   L¦¦¦Shape
+-   -   -   -   -   -   +¦¦¦Terrain
+-   -   -   -   -   -   +¦¦¦UI
+-   -   -   -   -   -   +¦¦¦Utility
+-   -   -   -   -   -   -   L¦¦¦Logic
+-   -   -   -   -   -   L¦¦¦UV
+-   -   -   -   -   +¦¦¦SubGraph
+-   -   -   -   -   L¦¦¦Util
+-   -   -   -   +¦¦¦Drawing
+-   -   -   -   -   +¦¦¦Blackboard
+-   -   -   -   -   +¦¦¦Colors
+-   -   -   -   -   +¦¦¦Controllers
+-   -   -   -   -   +¦¦¦Controls
+-   -   -   -   -   +¦¦¦Inspector
+-   -   -   -   -   -   L¦¦¦PropertyDrawers
+-   -   -   -   -   +¦¦¦Interfaces
+-   -   -   -   -   +¦¦¦Manipulators
+-   -   -   -   -   +¦¦¦MaterialEditor
+-   -   -   -   -   +¦¦¦ViewModels
+-   -   -   -   -   L¦¦¦Views
+-   -   -   -   -       L¦¦¦Slots
+-   -   -   -   +¦¦¦Extensions
+-   -   -   -   +¦¦¦Generation
+-   -   -   -   -   +¦¦¦Attributes
+-   -   -   -   -   +¦¦¦Collections
+-   -   -   -   -   +¦¦¦Contexts
+-   -   -   -   -   +¦¦¦Data
+-   -   -   -   -   +¦¦¦Descriptors
+-   -   -   -   -   +¦¦¦Enumerations
+-   -   -   -   -   +¦¦¦Processors
+-   -   -   -   -   +¦¦¦TargetResources
+-   -   -   -   -   +¦¦¦Targets
+-   -   -   -   -   -   +¦¦¦BuiltIn
+-   -   -   -   -   -   -   +¦¦¦Editor
+-   -   -   -   -   -   -   -   +¦¦¦AssetPostProcessors
+-   -   -   -   -   -   -   -   +¦¦¦ShaderGraph
+-   -   -   -   -   -   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   -   -   -   -   -   +¦¦¦Includes
+-   -   -   -   -   -   -   -   -   +¦¦¦Targets
+-   -   -   -   -   -   -   -   -   L¦¦¦Templates
+-   -   -   -   -   -   -   -   L¦¦¦ShaderGUI
+-   -   -   -   -   -   -   L¦¦¦ShaderLibrary
+-   -   -   -   -   -   -       L¦¦¦Shim
+-   -   -   -   -   -   +¦¦¦Canvas
+-   -   -   -   -   -   -   +¦¦¦AssetCallbacks
+-   -   -   -   -   -   -   L¦¦¦Templates
+-   -   -   -   -   -   +¦¦¦CustomRenderTexture
+-   -   -   -   -   -   +¦¦¦Fullscreen
+-   -   -   -   -   -   -   +¦¦¦Includes
+-   -   -   -   -   -   -   L¦¦¦Templates
+-   -   -   -   -   -   +¦¦¦Terrain
+-   -   -   -   -   -   -   L¦¦¦Includes
+-   -   -   -   -   -   L¦¦¦UITK
+-   -   -   -   -   -       L¦¦¦Templates
+-   -   -   -   -   +¦¦¦Templates
+-   -   -   -   -   L¦¦¦Utils
+-   -   -   -   +¦¦¦Importers
+-   -   -   -   +¦¦¦Interface
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   +¦¦¦ProviderSystem
+-   -   -   -   -   L¦¦¦Model
+-   -   -   -   -       L¦¦¦Header
+-   -   -   -   +¦¦¦Resources
+-   -   -   -   -   +¦¦¦GraphView
+-   -   -   -   -   -   L¦¦¦Nodes
+-   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   +¦¦¦Styles
+-   -   -   -   -   -   L¦¦¦Controls
+-   -   -   -   -   L¦¦¦UXML
+-   -   -   -   -       L¦¦¦Blackboard
+-   -   -   -   +¦¦¦Serialization
+-   -   -   -   +¦¦¦ShaderGUI
+-   -   -   -   +¦¦¦Util
+-   -   -   -   L¦¦¦Utilities
+-   -   -   +¦¦¦GraphTemplates
+-   -   -   -   +¦¦¦BuiltIn
+-   -   -   -   +¦¦¦Cross Pipeline
+-   -   -   -   L¦¦¦Subgraphs
+-   -   -   -       L¦¦¦Terrain
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦Common
+-   -   -   -   -   +¦¦¦Meshes
+-   -   -   -   -   -   +¦¦¦Billboard
+-   -   -   -   -   -   L¦¦¦Particles
+-   -   -   -   -   +¦¦¦Scripts
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   +¦¦¦Subgraphs
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -       L¦¦¦terrain
+-   -   -   -   -           +¦¦¦dry_soil
+-   -   -   -   -           +¦¦¦ground_grass_fells_mossy
+-   -   -   -   -           +¦¦¦ground_rockgrass_fellsdirty
+-   -   -   -   -           L¦¦¦stone_ground
+-   -   -   -   +¦¦¦CustomLighting
+-   -   -   -   -   +¦¦¦Components
+-   -   -   -   -   -   +¦¦¦AdditionalLights
+-   -   -   -   -   -   +¦¦¦Ambient
+-   -   -   -   -   -   +¦¦¦Core Models
+-   -   -   -   -   -   +¦¦¦Debug
+-   -   -   -   -   -   +¦¦¦Diffuse
+-   -   -   -   -   -   +¦¦¦Reflectance
+-   -   -   -   -   -   L¦¦¦Specular
+-   -   -   -   -   -       L¦¦¦PBR
+-   -   -   -   -   L¦¦¦Light Models
+-   -   -   -   +¦¦¦CustomMaterialPropertyDrawers
+-   -   -   -   -   L¦¦¦Editor
+-   -   -   -   +¦¦¦FeatureExamples
+-   -   -   -   -   +¦¦¦Blending Masks
+-   -   -   -   -   +¦¦¦Condition
+-   -   -   -   -   +¦¦¦Custom Interpolator
+-   -   -   -   -   +¦¦¦Custom Lighting
+-   -   -   -   -   -   +¦¦¦Cel Shader
+-   -   -   -   -   -   +¦¦¦PBR
+-   -   -   -   -   -   -   L¦¦¦PBRSpecular
+-   -   -   -   -   -   L¦¦¦Simple
+-   -   -   -   -   +¦¦¦Detail Mapping
+-   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   -   +¦¦¦HD Prefabs
+-   -   -   -   -   -   L¦¦¦ShowCasePrefabs
+-   -   -   -   -   -       L¦¦¦Info Panels
+-   -   -   -   -   +¦¦¦Procedural Noise and Shapes
+-   -   -   -   -   -   L¦¦¦SDF Shapes
+-   -   -   -   -   +¦¦¦Scenes
+-   -   -   -   -   -   L¦¦¦HDRPFeatureExampleScene
+-   -   -   -   -   +¦¦¦Shader Graph Feature Examples
+-   -   -   -   -   +¦¦¦UV Projection
+-   -   -   -   -   -   +¦¦¦Flipbook
+-   -   -   -   -   -   +¦¦¦FlowMapping
+-   -   -   -   -   -   +¦¦¦InteriorCubemapping
+-   -   -   -   -   -   +¦¦¦LatLongProjection
+-   -   -   -   -   -   +¦¦¦MatCap
+-   -   -   -   -   -   +¦¦¦ParallaxMapping
+-   -   -   -   -   -   L¦¦¦Triplanar Projection
+-   -   -   -   -   L¦¦¦VertexAnimation
+-   -   -   -   -       +¦¦¦AnimatedFlag
+-   -   -   -   -       +¦¦¦BendDeformer
+-   -   -   -   -       +¦¦¦Billboard
+-   -   -   -   -       +¦¦¦FoliageWind
+-   -   -   -   -       +¦¦¦GerstnerWave
+-   -   -   -   -       L¦¦¦Particles
+-   -   -   -   +¦¦¦NodeReference
+-   -   -   -   -   +¦¦¦Artistic
+-   -   -   -   -   +¦¦¦Channel
+-   -   -   -   -   +¦¦¦Input
+-   -   -   -   -   +¦¦¦Math
+-   -   -   -   -   +¦¦¦Procedural
+-   -   -   -   -   +¦¦¦Textures
+-   -   -   -   -   +¦¦¦Utility
+-   -   -   -   -   L¦¦¦UV
+-   -   -   -   +¦¦¦ParticleShaders
+-   -   -   -   -   +¦¦¦Materials
+-   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   +¦¦¦Settings
+-   -   -   -   -   +¦¦¦Shader Graphs
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   +¦¦¦ProceduralPatterns
+-   -   -   -   +¦¦¦ProductionReady
+-   -   -   -   -   +¦¦¦Environment
+-   -   -   -   -   -   +¦¦¦Decals
+-   -   -   -   -   -   +¦¦¦Details
+-   -   -   -   -   -   -   +¦¦¦clover
+-   -   -   -   -   -   -   +¦¦¦Ferns
+-   -   -   -   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -   -   -   +¦¦¦Grass
+-   -   -   -   -   -   -   +¦¦¦Nettle
+-   -   -   -   -   -   -   L¦¦¦Pebbles
+-   -   -   -   -   -   +¦¦¦Ice
+-   -   -   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -   -   +¦¦¦LevelBlockout
+-   -   -   -   -   -   +¦¦¦Particles
+-   -   -   -   -   -   +¦¦¦Rock
+-   -   -   -   -   -   -   L¦¦¦Materials
+-   -   -   -   -   -   L¦¦¦Water
+-   -   -   -   -   +¦¦¦Lit
+-   -   -   -   -   +¦¦¦PostProcess
+-   -   -   -   -   +¦¦¦Prefabs
+-   -   -   -   -   +¦¦¦Scenes
+-   -   -   -   -   -   +¦¦¦HDRPProductionReadyShaders
+-   -   -   -   -   -   L¦¦¦URPProductionReadyShaders
+-   -   -   -   -   L¦¦¦Weather
+-   -   -   -   -       +¦¦¦Rain
+-   -   -   -   -       -   +¦¦¦Components
+-   -   -   -   -       -   L¦¦¦Textures
+-   -   -   -   -       L¦¦¦Snow
+-   -   -   -   -           +¦¦¦Components
+-   -   -   -   -           L¦¦¦Textures
+-   -   -   -   +¦¦¦Terrain
+-   -   -   -   -   +¦¦¦Materials
+-   -   -   -   -   +¦¦¦Scenes
+-   -   -   -   -   -   +¦¦¦Terrain
+-   -   -   -   -   -   L¦¦¦TerrainHDRP
+-   -   -   -   -   +¦¦¦Shaders
+-   -   -   -   -   -   L¦¦¦TileBreakupDemos
+-   -   -   -   -   +¦¦¦Subgraphs
+-   -   -   -   -   -   +¦¦¦Components
+-   -   -   -   -   -   -   +¦¦¦Hex
+-   -   -   -   -   -   -   L¦¦¦Packing
+-   -   -   -   -   -   L¦¦¦Layers
+-   -   -   -   -   L¦¦¦Textures
+-   -   -   -   -       +¦¦¦aerial_beach
+-   -   -   -   -       +¦¦¦dry_soil
+-   -   -   -   -       +¦¦¦ground_grass_fells_mossy
+-   -   -   -   -       +¦¦¦ground_rockgrass_fellsdirty
+-   -   -   -   -       +¦¦¦mud_cracked_dry
+-   -   -   -   -       +¦¦¦rock_boulder_cracked
+-   -   -   -   -       +¦¦¦snow
+-   -   -   -   -       L¦¦¦stone_ground
+-   -   -   -   L¦¦¦UGUIShaders
+-   -   -   -       +¦¦¦Default Materials
+-   -   -   -       +¦¦¦Examples
+-   -   -   -       -   +¦¦¦Backgrounds
+-   -   -   -       -   +¦¦¦Buttons
+-   -   -   -       -   +¦¦¦Indicators
+-   -   -   -       -   L¦¦¦ProgressBars
+-   -   -   -       +¦¦¦Prefabs
+-   -   -   -       +¦¦¦Scenes
+-   -   -   -       -   L¦¦¦UISampleScene
+-   -   -   -       +¦¦¦Scripts
+-   -   -   -       -   +¦¦¦Editor
+-   -   -   -       -   L¦¦¦Runtime
+-   -   -   -       -       L¦¦¦Attributes
+-   -   -   -       L¦¦¦Subgraphs
+-   -   -   -           +¦¦¦Gradients
+-   -   -   -           +¦¦¦Helpers
+-   -   -   -           +¦¦¦Input
+-   -   -   -           +¦¦¦Patterns
+-   -   -   -           +¦¦¦SDFs
+-   -   -   -           -   L¦¦¦Operators
+-   -   -   -           +¦¦¦Time
+-   -   -   -           +¦¦¦Utilities
+-   -   -   -           L¦¦¦UV
+-   -   -   +¦¦¦ShaderGraphLibrary
+-   -   -   -   L¦¦¦Nature
+-   -   -   L¦¦¦Tests
+-   -   -       L¦¦¦Editor
+-   -   -           +¦¦¦IntegrationTests
+-   -   -           +¦¦¦ProviderTests
+-   -   -           L¦¦¦UnitTests
+-   -   +¦¦¦com.unity.test-framework.performance@816c370aad5b
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦TestReportGraph
+-   -   -   -   L¦¦¦UIElements
+-   -   -   L¦¦¦Runtime
+-   -   -       +¦¦¦Attributes
+-   -   -       +¦¦¦Data
+-   -   -       +¦¦¦Measurements
+-   -   -       +¦¦¦Meters
+-   -   -       L¦¦¦Statistics
+-   -   +¦¦¦com.unity.test-framework@01a8b42f9cf6
+-   -   -   +¦¦¦Documentation~
+-   -   -   +¦¦¦Samples~
+-   -   -   -   +¦¦¦10_LongRunningTests
+-   -   -   -   -   L¦¦¦PlayModeTests_10
+-   -   -   -   +¦¦¦10_LongRunningTests_Solution
+-   -   -   -   -   L¦¦¦PlayModeTests_10s
+-   -   -   -   +¦¦¦11_SceneBasedTests
+-   -   -   -   -   L¦¦¦EditModeTests_11
+-   -   -   -   +¦¦¦11_SceneBasedTests_Solution
+-   -   -   -   -   L¦¦¦EditModeTests_11s
+-   -   -   -   +¦¦¦12_BuildSetupCleanup
+-   -   -   -   -   L¦¦¦PlayModeTests_12
+-   -   -   -   +¦¦¦12_BuildSetupCleanup_Solution
+-   -   -   -   -   L¦¦¦PlayModeTests_12s
+-   -   -   -   +¦¦¦13_DomainReload
+-   -   -   -   -   L¦¦¦Tests_13
+-   -   -   -   +¦¦¦13_DomainReload_Solution
+-   -   -   -   -   L¦¦¦Tests_13s
+-   -   -   -   +¦¦¦14_PreserveTestState
+-   -   -   -   -   L¦¦¦Tests_14
+-   -   -   -   +¦¦¦14_PreserveTestState_Solution
+-   -   -   -   -   L¦¦¦Tests_14s
+-   -   -   -   +¦¦¦15_TestCases
+-   -   -   -   -   +¦¦¦MyGame_15
+-   -   -   -   -   L¦¦¦Tests_15
+-   -   -   -   +¦¦¦15_TestCases_Solution
+-   -   -   -   -   +¦¦¦MyGame_15s
+-   -   -   -   -   L¦¦¦Tests_15s
+-   -   -   -   +¦¦¦16_CustomAttributes
+-   -   -   -   -   +¦¦¦MyGame_16
+-   -   -   -   -   L¦¦¦Tests_16
+-   -   -   -   +¦¦¦16_CustomAttributes_Solution
+-   -   -   -   -   +¦¦¦MyGame_16s
+-   -   -   -   -   L¦¦¦Tests_16s
+-   -   -   -   +¦¦¦17_RunningTestsProgrammatically
+-   -   -   -   -   +¦¦¦MyGame_17
+-   -   -   -   -   L¦¦¦Tests_17
+-   -   -   -   +¦¦¦17_RunningTestsProgrammatically_Solution
+-   -   -   -   -   +¦¦¦MyGame_17s
+-   -   -   -   -   L¦¦¦Tests_17s
+-   -   -   -   +¦¦¦1_RunningTest_Project
+-   -   -   -   -   L¦¦¦MyExercise_1
+-   -   -   -   +¦¦¦1_RunningTest_Project_Solution
+-   -   -   -   -   +¦¦¦MyExercise_1s
+-   -   -   -   -   L¦¦¦Tests_1s
+-   -   -   -   +¦¦¦2_ActArrangeAssert
+-   -   -   -   -   +¦¦¦MyExercise_2
+-   -   -   -   -   L¦¦¦Tests_2
+-   -   -   -   +¦¦¦2_ActArrangeAssert_Solution
+-   -   -   -   -   +¦¦¦MyExercise_2s
+-   -   -   -   -   L¦¦¦Tests_2s
+-   -   -   -   +¦¦¦3_SemanticTestAssertion
+-   -   -   -   -   +¦¦¦MyExercise_3
+-   -   -   -   -   L¦¦¦Tests_3
+-   -   -   -   +¦¦¦3_SemanticTestAssertion_Solution
+-   -   -   -   -   +¦¦¦MyExercise_3s
+-   -   -   -   -   L¦¦¦Tests_3s
+-   -   -   -   +¦¦¦4_CustomComparison
+-   -   -   -   -   +¦¦¦MyExercise_4
+-   -   -   -   -   L¦¦¦Tests_4
+-   -   -   -   +¦¦¦4_CustomComparison_Solution
+-   -   -   -   -   +¦¦¦MyExercise_4s
+-   -   -   -   -   L¦¦¦Tests_4s
+-   -   -   -   +¦¦¦5_AssertingLogs
+-   -   -   -   -   +¦¦¦MyExercise_5
+-   -   -   -   -   L¦¦¦Tests_5
+-   -   -   -   +¦¦¦5_AssertingLogs_Solution
+-   -   -   -   -   +¦¦¦MyExercise_5s
+-   -   -   -   -   L¦¦¦Tests_5s
+-   -   -   -   +¦¦¦6_SetUpTearDown
+-   -   -   -   -   +¦¦¦MyExercise_6
+-   -   -   -   -   L¦¦¦Tests_6
+-   -   -   -   +¦¦¦6_SetUpTearDown_Solution
+-   -   -   -   -   +¦¦¦MyExercise_6s
+-   -   -   -   -   L¦¦¦Tests_6s
+-   -   -   -   +¦¦¦7_PlayModeTests
+-   -   -   -   +¦¦¦7_PlayModeTests_Solution
+-   -   -   -   -   L¦¦¦PlayModeTests_7
+-   -   -   -   +¦¦¦8_PlayModeTests_InPlayer
+-   -   -   -   -   L¦¦¦PlayModeTests_8
+-   -   -   -   +¦¦¦9_UnityTestAttribute
+-   -   -   -   -   L¦¦¦PlayModeTests_9
+-   -   -   -   L¦¦¦9_UnityTestAttribute_Solution
+-   -   -   -       L¦¦¦PlayModeTests_9s
+-   -   -   +¦¦¦UnityEditor.TestRunner
+-   -   -   -   +¦¦¦Api
+-   -   -   -   -   L¦¦¦Analytics
+-   -   -   -   +¦¦¦CommandLineParser
+-   -   -   -   +¦¦¦CommandLineTest
+-   -   -   -   +¦¦¦GUI
+-   -   -   -   -   +¦¦¦Controls
+-   -   -   -   -   +¦¦¦TestAssets
+-   -   -   -   -   +¦¦¦TestListBuilder
+-   -   -   -   -   +¦¦¦TestListTreeView
+-   -   -   -   -   L¦¦¦Views
+-   -   -   -   +¦¦¦NUnitExtension
+-   -   -   -   -   L¦¦¦Attributes
+-   -   -   -   +¦¦¦TestLaunchers
+-   -   -   -   -   +¦¦¦Helpers
+-   -   -   -   -   L¦¦¦PlatformSetup
+-   -   -   -   +¦¦¦TestRun
+-   -   -   -   -   +¦¦¦Data
+-   -   -   -   -   L¦¦¦Tasks
+-   -   -   -   -       +¦¦¦Events
+-   -   -   -   -       +¦¦¦Platform
+-   -   -   -   -       +¦¦¦Player
+-   -   -   -   -       L¦¦¦Scene
+-   -   -   -   +¦¦¦TestRunner
+-   -   -   -   -   +¦¦¦Callbacks
+-   -   -   -   -   +¦¦¦Messages
+-   -   -   -   -   L¦¦¦Utils
+-   -   -   -   +¦¦¦TestSettings
+-   -   -   -   L¦¦¦UnityTestProtocol
+-   -   -   -       +¦¦¦Data
+-   -   -   -       L¦¦¦Messages
+-   -   -   L¦¦¦UnityEngine.TestRunner
+-   -   -       +¦¦¦Assertions
+-   -   -       -   L¦¦¦LogScope
+-   -   -       +¦¦¦NUnitExtensions
+-   -   -       -   +¦¦¦Attributes
+-   -   -       -   +¦¦¦Commands
+-   -   -       -   +¦¦¦Filters
+-   -   -       -   L¦¦¦Runner
+-   -   -       +¦¦¦TestRunner
+-   -   -       -   +¦¦¦Callbacks
+-   -   -       -   +¦¦¦Messages
+-   -   -       -   L¦¦¦RemoteHelpers
+-   -   -       +¦¦¦UnityTestProtocol
+-   -   -       L¦¦¦Utils
+-   -   -           +¦¦¦AssemblyProvider
+-   -   -           L¦¦¦MonoBehaviourTest
+-   -   +¦¦¦com.unity.timeline@da5138fccaf6
+-   -   -   +¦¦¦DocCodeExamples~
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   L¦¦¦images
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Actions
+-   -   -   -   -   L¦¦¦Menus
+-   -   -   -   +¦¦¦Activation
+-   -   -   -   +¦¦¦Analytics
+-   -   -   -   +¦¦¦Animation
+-   -   -   -   +¦¦¦Attributes
+-   -   -   -   +¦¦¦Audio
+-   -   -   -   +¦¦¦ControlTrack
+-   -   -   -   +¦¦¦CustomEditors
+-   -   -   -   +¦¦¦Extensions
+-   -   -   -   +¦¦¦inspectors
+-   -   -   -   -   +¦¦¦ClipInspector
+-   -   -   -   -   L¦¦¦CurvesOwner
+-   -   -   -   +¦¦¦Items
+-   -   -   -   +¦¦¦Localization
+-   -   -   -   +¦¦¦Manipulators
+-   -   -   -   -   +¦¦¦AddDelete
+-   -   -   -   -   +¦¦¦Cursors
+-   -   -   -   -   +¦¦¦Move
+-   -   -   -   -   +¦¦¦Sequence
+-   -   -   -   -   +¦¦¦Trim
+-   -   -   -   -   L¦¦¦Utils
+-   -   -   -   +¦¦¦Playables
+-   -   -   -   +¦¦¦Properties
+-   -   -   -   +¦¦¦Recording
+-   -   -   -   +¦¦¦Samples
+-   -   -   -   +¦¦¦Signals
+-   -   -   -   -   L¦¦¦TreeView
+-   -   -   -   +¦¦¦State
+-   -   -   -   +¦¦¦StyleSheets
+-   -   -   -   -   +¦¦¦Extensions
+-   -   -   -   -   +¦¦¦Images
+-   -   -   -   -   -   +¦¦¦DarkSkin
+-   -   -   -   -   -   +¦¦¦Icons
+-   -   -   -   -   -   +¦¦¦LightSkin
+-   -   -   -   -   -   L¦¦¦Shared
+-   -   -   -   -   L¦¦¦res
+-   -   -   -   +¦¦¦treeview
+-   -   -   -   -   +¦¦¦Drawers
+-   -   -   -   -   -   L¦¦¦Layers
+-   -   -   -   -   +¦¦¦ItemGui
+-   -   -   -   -   +¦¦¦Snapping
+-   -   -   -   -   L¦¦¦TrackGui
+-   -   -   -   +¦¦¦Undo
+-   -   -   -   +¦¦¦Utilities
+-   -   -   -   -   L¦¦¦Scopes
+-   -   -   -   L¦¦¦Window
+-   -   -   -       +¦¦¦Modes
+-   -   -   -       L¦¦¦ViewModel
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦Activation
+-   -   -   -   +¦¦¦Animation
+-   -   -   -   +¦¦¦AssetUpgrade
+-   -   -   -   +¦¦¦Attributes
+-   -   -   -   +¦¦¦Audio
+-   -   -   -   +¦¦¦Control
+-   -   -   -   +¦¦¦Evaluation
+-   -   -   -   +¦¦¦Events
+-   -   -   -   -   L¦¦¦Signals
+-   -   -   -   +¦¦¦Extensions
+-   -   -   -   +¦¦¦Playables
+-   -   -   -   +¦¦¦Properties
+-   -   -   -   +¦¦¦Scripting
+-   -   -   -   L¦¦¦Utilities
+-   -   -   L¦¦¦Samples~
+-   -   -       +¦¦¦Customization
+-   -   -       -   +¦¦¦Annotation
+-   -   -       -   -   L¦¦¦Editor
+-   -   -       -   -       +¦¦¦Resources
+-   -   -       -   -       -   +¦¦¦dark
+-   -   -       -   -       -   L¦¦¦light
+-   -   -       -   -       L¦¦¦Stylesheets
+-   -   -       -   -           L¦¦¦Extensions
+-   -   -       -   +¦¦¦Demo
+-   -   -       -   -   +¦¦¦Animation
+-   -   -       -   -   +¦¦¦Scenes
+-   -   -       -   -   +¦¦¦Timelines
+-   -   -       -   -   L¦¦¦Videos
+-   -   -       -   +¦¦¦Text
+-   -   -       -   -   L¦¦¦Editor
+-   -   -       -   +¦¦¦TimeDilation
+-   -   -       -   +¦¦¦Tween
+-   -   -       -   -   L¦¦¦Editor
+-   -   -       -   +¦¦¦Utilities
+-   -   -       -   -   L¦¦¦Editor
+-   -   -       -   L¦¦¦Video
+-   -   -       -       L¦¦¦Editor
+-   -   -       L¦¦¦GameplaySequenceDemo
+-   -   -           +¦¦¦Animation
+-   -   -           +¦¦¦Audio
+-   -   -           +¦¦¦Character
+-   -   -           -   +¦¦¦Materials
+-   -   -           -   +¦¦¦Models
+-   -   -           -   L¦¦¦Textures
+-   -   -           +¦¦¦Info
+-   -   -           -   +¦¦¦Icons
+-   -   -           -   L¦¦¦Scripts
+-   -   -           -       L¦¦¦Editor
+-   -   -           +¦¦¦Materials
+-   -   -           +¦¦¦Particles
+-   -   -           -   +¦¦¦Goop Effects
+-   -   -           -   -   +¦¦¦Materials
+-   -   -           -   -   L¦¦¦Textures
+-   -   -           -   L¦¦¦Misc Effects
+-   -   -           -       +¦¦¦Materials
+-   -   -           -       L¦¦¦Textures
+-   -   -           +¦¦¦Prefabs
+-   -   -           +¦¦¦Scenes
+-   -   -           -   L¦¦¦GameplaySequence
+-   -   -           +¦¦¦Shaders
+-   -   -           +¦¦¦Textures
+-   -   -           L¦¦¦Timelines
+-   -   +¦¦¦com.unity.ugui@e13c0366db78
+-   -   -   +¦¦¦Documentation~
+-   -   -   -   +¦¦¦images
+-   -   -   -   L¦¦¦TextMeshPro
+-   -   -   +¦¦¦Editor
+-   -   -   -   +¦¦¦Analytics
+-   -   -   -   -   L¦¦¦IAnalytic
+-   -   -   -   +¦¦¦TMP
+-   -   -   -   -   +¦¦¦HDRP
+-   -   -   -   -   L¦¦¦PropertyDrawers
+-   -   -   -   L¦¦¦UGUI
+-   -   -   -       +¦¦¦EventSystem
+-   -   -   -       +¦¦¦Properties
+-   -   -   -       L¦¦¦UI
+-   -   -   -           L¦¦¦PropertyDrawers
+-   -   -   +¦¦¦Editor Resources
+-   -   -   -   +¦¦¦Gizmos
+-   -   -   -   +¦¦¦Shaders
+-   -   -   -   L¦¦¦Textures
+-   -   -   +¦¦¦Package Resources
+-   -   -   +¦¦¦Runtime
+-   -   -   -   +¦¦¦InternalBridge
+-   -   -   -   +¦¦¦TMP
+-   -   -   -   L¦¦¦UGUI
+-   -   -   -       +¦¦¦EventSystem
+-   -   -   -       -   +¦¦¦EventData
+-   -   -   -       -   +¦¦¦InputModules
+-   -   -   -       -   +¦¦¦Raycasters
+-   -   -   -       -   L¦¦¦UIElements
+-   -   -   -       +¦¦¦Properties
+-   -   -   -       L¦¦¦UI
+-   -   -   -           +¦¦¦Animation
+-   -   -   -           L¦¦¦Core
+-   -   -   -               +¦¦¦Culling
+-   -   -   -               +¦¦¦Layout
+-   -   -   -               +¦¦¦MaterialModifiers
+-   -   -   -               +¦¦¦SpecializedCollections
+-   -   -   -               +¦¦¦Utility
+-   -   -   -               L¦¦¦VertexModifiers
+-   -   -   L¦¦¦Tests
+-   -   -       +¦¦¦Editor
+-   -   -       -   +¦¦¦Common
+-   -   -       -   +¦¦¦TMP
+-   -   -       -   L¦¦¦UGUI
+-   -   -       -       +¦¦¦Canvas
+-   -   -       -       +¦¦¦CanvasRenderer
+-   -   -       -       +¦¦¦Dropdown
+-   -   -       -       +¦¦¦EventSystem
+-   -   -       -       +¦¦¦InputField
+-   -   -       -       +¦¦¦Layout
+-   -   -       -       +¦¦¦RectMask2D
+-   -   -       -       +¦¦¦SafeArea
+-   -   -       -       +¦¦¦Slider
+-   -   -       -       +¦¦¦Text
+-   -   -       -       +¦¦¦UI
+-   -   -       -       -   L¦¦¦PropertyDrawers
+-   -   -       -       L¦¦¦UnityEvent
+-   -   -       L¦¦¦Runtime
+-   -   -           +¦¦¦TMP
+-   -   -           L¦¦¦UGUI
+-   -   -               +¦¦¦Button
+-   -   -               +¦¦¦Canvas
+-   -   -               +¦¦¦CanvasRenderer
+-   -   -               +¦¦¦Dropdown
+-   -   -               +¦¦¦EventSystem
+-   -   -               -   L¦¦¦InputModuleTests
+-   -   -               +¦¦¦Graphic
+-   -   -               +¦¦¦Image
+-   -   -               +¦¦¦InputField
+-   -   -               +¦¦¦Layout
+-   -   -               +¦¦¦LayoutGroup
+-   -   -               +¦¦¦MaskClipping
+-   -   -               +¦¦¦NestedLayout
+-   -   -               +¦¦¦RawImage
+-   -   -               +¦¦¦RaycastReceiver
+-   -   -               +¦¦¦SafeArea
+-   -   -               +¦¦¦ScrollBar
+-   -   -               +¦¦¦ScrollRect
+-   -   -               +¦¦¦Slider
+-   -   -               +¦¦¦Toggle
+-   -   -               L¦¦¦Util
+-   -   L¦¦¦com.unity.visualscripting@f7fc8a0b602c
+-   -       +¦¦¦DocCodeExamples
+-   -       +¦¦¦Documentation~
+-   -       -   +¦¦¦images
+-   -       -   L¦¦¦snippets
+-   -       -       +¦¦¦custom-c-nodes
+-   -       -       +¦¦¦custom-events
+-   -       -       +¦¦¦input-manager
+-   -       -       L¦¦¦input-system
+-   -       +¦¦¦Editor
+-   -       -   +¦¦¦SettingsProvider
+-   -       -   -   L¦¦¦ProjectSettings
+-   -       -   +¦¦¦VisualScripting.Core
+-   -       -   -   +¦¦¦Analysis
+-   -       -   -   +¦¦¦Analytics
+-   -       -   -   +¦¦¦Assignment
+-   -       -   -   +¦¦¦Canvases
+-   -       -   -   +¦¦¦Context
+-   -       -   -   +¦¦¦Debugging
+-   -       -   -   +¦¦¦Decorators
+-   -       -   -   +¦¦¦Dependencies
+-   -       -   -   -   +¦¦¦Assemblies
+-   -       -   -   -   -   +¦¦¦WINARM64
+-   -       -   -   -   -   L¦¦¦WINx64
+-   -       -   -   -   +¦¦¦DotNetZip
+-   -       -   -   -   +¦¦¦ReorderableList
+-   -       -   -   -   -   +¦¦¦ElementAdderMenu
+-   -       -   -   -   -   L¦¦¦Internal
+-   -       -   -   -   +¦¦¦SQLite
+-   -       -   -   -   L¦¦¦YamlDotNet
+-   -       -   -   +¦¦¦Description
+-   -       -   -   +¦¦¦Descriptors
+-   -       -   -   +¦¦¦Documentation
+-   -       -   -   +¦¦¦EditorAssetResources
+-   -       -   -   +¦¦¦Exceptions
+-   -       -   -   +¦¦¦Graph
+-   -       -   -   +¦¦¦IconMap
+-   -       -   -   +¦¦¦Inspection
+-   -       -   -   -   +¦¦¦Other
+-   -       -   -   -   +¦¦¦Primitives
+-   -       -   -   -   +¦¦¦Reflection
+-   -       -   -   -   +¦¦¦Root
+-   -       -   -   -   +¦¦¦Special
+-   -       -   -   -   L¦¦¦Unity
+-   -       -   -   +¦¦¦Interface
+-   -       -   -   -   +¦¦¦Annotations
+-   -       -   -   -   +¦¦¦Colors
+-   -       -   -   -   +¦¦¦DragAndDrop
+-   -       -   -   -   +¦¦¦Dropdowns
+-   -       -   -   -   +¦¦¦Fonts
+-   -       -   -   -   +¦¦¦Fuzzy
+-   -       -   -   -   +¦¦¦Icons
+-   -       -   -   -   L¦¦¦Licenses
+-   -       -   -   +¦¦¦Meta
+-   -       -   -   +¦¦¦Platforms
+-   -       -   -   +¦¦¦Plugin
+-   -       -   -   -   +¦¦¦Acknowledgements
+-   -       -   -   -   +¦¦¦Changelogs
+-   -       -   -   -   -   +¦¦¦LegacyLudiqCore
+-   -       -   -   -   -   L¦¦¦LegacyLudiqGraphs
+-   -       -   -   -   L¦¦¦Migrations
+-   -       -   -   +¦¦¦Plugins
+-   -       -   -   +¦¦¦Product
+-   -       -   -   +¦¦¦Products
+-   -       -   -   +¦¦¦Properties
+-   -       -   -   +¦¦¦Reflection
+-   -       -   -   +¦¦¦ResourceProviders
+-   -       -   -   +¦¦¦Serialization
+-   -       -   -   +¦¦¦SerializedProperties
+-   -       -   -   +¦¦¦Threading
+-   -       -   -   +¦¦¦Utilities
+-   -       -   -   +¦¦¦Variables
+-   -       -   -   +¦¦¦Widgets
+-   -       -   -   -   +¦¦¦Groups
+-   -       -   -   -   +¦¦¦Nodes
+-   -       -   -   -   L¦¦¦StickyNote
+-   -       -   -   L¦¦¦Windows
+-   -       -   -       +¦¦¦AboutWindow
+-   -       -   -       +¦¦¦BackupWindow
+-   -       -   -       +¦¦¦ConfigurationPanel
+-   -       -   -       +¦¦¦GenerateDocumentationWindow
+-   -       -   -       +¦¦¦GeneratePropertyProvidersWindow
+-   -       -   -       +¦¦¦Sidebars
+-   -       -   -       L¦¦¦UpdateWizard
+-   -       -   +¦¦¦VisualScripting.Flow
+-   -       -   -   +¦¦¦Acknowledgements
+-   -       -   -   +¦¦¦Analytics
+-   -       -   -   +¦¦¦Connections
+-   -       -   -   +¦¦¦Description
+-   -       -   -   +¦¦¦Events
+-   -       -   -   +¦¦¦Framework
+-   -       -   -   -   +¦¦¦Codebase
+-   -       -   -   -   +¦¦¦Control
+-   -       -   -   -   +¦¦¦Nesting
+-   -       -   -   -   +¦¦¦Time
+-   -       -   -   -   L¦¦¦Variables
+-   -       -   -   -       L¦¦¦Obsolete
+-   -       -   -   +¦¦¦Invocations
+-   -       -   -   +¦¦¦Linker
+-   -       -   -   +¦¦¦Options
+-   -       -   -   +¦¦¦Plugin
+-   -       -   -   -   +¦¦¦Changelogs
+-   -       -   -   -   L¦¦¦Migrations
+-   -       -   -   +¦¦¦Ports
+-   -       -   -   +¦¦¦Properties
+-   -       -   -   L¦¦¦Units
+-   -       -   +¦¦¦VisualScripting.Shared
+-   -       -   -   L¦¦¦EditorAssetResources
+-   -       -   L¦¦¦VisualScripting.State
+-   -       -       +¦¦¦Analytics
+-   -       -       +¦¦¦Description
+-   -       -       +¦¦¦Flow
+-   -       -       +¦¦¦Graph
+-   -       -       +¦¦¦Plugin
+-   -       -       -   +¦¦¦Changelogs
+-   -       -       -   L¦¦¦Migrations
+-   -       -       +¦¦¦Properties
+-   -       -       +¦¦¦States
+-   -       -       L¦¦¦Transitions
+-   -       +¦¦¦Graphics
+-   -       L¦¦¦Runtime
+-   -           +¦¦¦VisualScripting.Core
+-   -           -   +¦¦¦Attributes
+-   -           -   +¦¦¦Cloning
+-   -           -   -   L¦¦¦Cloners
+-   -           -   +¦¦¦Collections
+-   -           -   +¦¦¦Connections
+-   -           -   +¦¦¦Decorators
+-   -           -   +¦¦¦Dependencies
+-   -           -   -   +¦¦¦AssemblyQualifiedNameParser
+-   -           -   -   L¦¦¦FullSerializer
+-   -           -   -       +¦¦¦Converters
+-   -           -   -       -   L¦¦¦Unity
+-   -           -   -       +¦¦¦Internal
+-   -           -   -       L¦¦¦Reflection
+-   -           -   +¦¦¦EditorBinding
+-   -           -   -   L¦¦¦Inspector
+-   -           -   +¦¦¦Ensure
+-   -           -   -   L¦¦¦Extensions
+-   -           -   +¦¦¦Events
+-   -           -   +¦¦¦Exceptions
+-   -           -   +¦¦¦Graphs
+-   -           -   +¦¦¦Groups
+-   -           -   +¦¦¦Input
+-   -           -   +¦¦¦Listeners
+-   -           -   -   +¦¦¦MonoBehaviour
+-   -           -   -   +¦¦¦UI
+-   -           -   -   L¦¦¦UIInterfaces
+-   -           -   +¦¦¦Machines
+-   -           -   +¦¦¦Macros
+-   -           -   +¦¦¦Platforms
+-   -           -   +¦¦¦Pooling
+-   -           -   +¦¦¦Profiling
+-   -           -   +¦¦¦Properties
+-   -           -   +¦¦¦Reflection
+-   -           -   -   +¦¦¦Operators
+-   -           -   -   L¦¦¦Optimization
+-   -           -   +¦¦¦Serialization
+-   -           -   -   L¦¦¦Converters
+-   -           -   +¦¦¦SerializedProperties
+-   -           -   +¦¦¦StickyNote
+-   -           -   +¦¦¦Unity
+-   -           -   +¦¦¦Utilities
+-   -           -   L¦¦¦Variables
+-   -           +¦¦¦VisualScripting.Flow
+-   -           -   +¦¦¦Connections
+-   -           -   +¦¦¦Dependencies
+-   -           -   -   L¦¦¦NCalc
+-   -           -   +¦¦¦EditorBinding
+-   -           -   +¦¦¦Framework
+-   -           -   -   +¦¦¦Codebase
+-   -           -   -   +¦¦¦Collections
+-   -           -   -   -   +¦¦¦Dictionaries
+-   -           -   -   -   L¦¦¦Lists
+-   -           -   -   +¦¦¦Control
+-   -           -   -   +¦¦¦Events
+-   -           -   -   -   +¦¦¦Animation
+-   -           -   -   -   +¦¦¦Application
+-   -           -   -   -   +¦¦¦Editor
+-   -           -   -   -   +¦¦¦GUI
+-   -           -   -   -   +¦¦¦Hierarchy
+-   -           -   -   -   +¦¦¦Input
+-   -           -   -   -   -   L¦¦¦InputSystem
+-   -           -   -   -   +¦¦¦Lifecycle
+-   -           -   -   -   +¦¦¦Navigation
+-   -           -   -   -   +¦¦¦Physics
+-   -           -   -   -   +¦¦¦Physics2D
+-   -           -   -   -   +¦¦¦Rendering
+-   -           -   -   -   L¦¦¦Time
+-   -           -   -   +¦¦¦Graph
+-   -           -   -   +¦¦¦Logic
+-   -           -   -   +¦¦¦Math
+-   -           -   -   -   +¦¦¦Generic
+-   -           -   -   -   +¦¦¦Scalar
+-   -           -   -   -   +¦¦¦Vector2
+-   -           -   -   -   +¦¦¦Vector3
+-   -           -   -   -   L¦¦¦Vector4
+-   -           -   -   +¦¦¦Nesting
+-   -           -   -   +¦¦¦Nulls
+-   -           -   -   +¦¦¦Time
+-   -           -   -   L¦¦¦Variables
+-   -           -   -       L¦¦¦Obsolete
+-   -           -   +¦¦¦Ports
+-   -           -   L¦¦¦Properties
+-   -           L¦¦¦VisualScripting.State
+-   -               +¦¦¦Framework
+-   -               -   L¦¦¦Graph
+-   -               +¦¦¦Properties
+-   -               L¦¦¦Units
+-   +¦¦¦PackageManager
+-   -   L¦¦¦Cache
+-   -       +¦¦¦content-v2
+-   -       -   L¦¦¦sha512
+-   -       -       +¦¦¦10
+-   -       -       -   L¦¦¦51
+-   -       -       +¦¦¦25
+-   -       -       -   L¦¦¦77
+-   -       -       +¦¦¦30
+-   -       -       -   L¦¦¦54
+-   -       -       +¦¦¦3b
+-   -       -       -   L¦¦¦35
+-   -       -       +¦¦¦5a
+-   -       -       -   L¦¦¦95
+-   -       -       +¦¦¦5f
+-   -       -       -   L¦¦¦67
+-   -       -       +¦¦¦61
+-   -       -       -   L¦¦¦e2
+-   -       -       +¦¦¦6b
+-   -       -       -   L¦¦¦07
+-   -       -       +¦¦¦72
+-   -       -       -   L¦¦¦70
+-   -       -       +¦¦¦73
+-   -       -       -   L¦¦¦64
+-   -       -       +¦¦¦7c
+-   -       -       -   L¦¦¦3b
+-   -       -       +¦¦¦88
+-   -       -       -   L¦¦¦c3
+-   -       -       +¦¦¦b6
+-   -       -       -   L¦¦¦e2
+-   -       -       +¦¦¦bd
+-   -       -       -   L¦¦¦90
+-   -       -       +¦¦¦c0
+-   -       -       -   L¦¦¦a2
+-   -       -       +¦¦¦c7
+-   -       -       -   L¦¦¦32
+-   -       -       L¦¦¦fc
+-   -       -           L¦¦¦7e
+-   -       +¦¦¦index-v5
+-   -       -   +¦¦¦02
+-   -       -   -   L¦¦¦7e
+-   -       -   +¦¦¦1e
+-   -       -   -   L¦¦¦b0
+-   -       -   +¦¦¦22
+-   -       -   -   L¦¦¦48
+-   -       -   +¦¦¦39
+-   -       -   -   L¦¦¦cf
+-   -       -   +¦¦¦3c
+-   -       -   -   +¦¦¦21
+-   -       -   -   L¦¦¦2d
+-   -       -   +¦¦¦46
+-   -       -   -   L¦¦¦7e
+-   -       -   +¦¦¦49
+-   -       -   -   L¦¦¦0b
+-   -       -   +¦¦¦4e
+-   -       -   -   L¦¦¦f5
+-   -       -   +¦¦¦62
+-   -       -   -   L¦¦¦43
+-   -       -   +¦¦¦7d
+-   -       -   -   L¦¦¦7f
+-   -       -   +¦¦¦a2
+-   -       -   -   L¦¦¦b8
+-   -       -   +¦¦¦b7
+-   -       -   -   L¦¦¦1f
+-   -       -   +¦¦¦cc
+-   -       -   -   L¦¦¦f5
+-   -       -   +¦¦¦d9
+-   -       -   -   L¦¦¦3d
+-   -       -   +¦¦¦ea
+-   -       -   -   L¦¦¦4a
+-   -       -   L¦¦¦fc
+-   -       -       L¦¦¦92
+-   -       L¦¦¦tmp
+-   +¦¦¦ScriptAssemblies
+-   +¦¦¦Search
+-   +¦¦¦ShaderCache
+-   -   +¦¦¦builtin
+-   -   -   +¦¦¦0000
+-   -   -   -   L¦¦¦00
+-   -   -   L¦¦¦unity_builtin_extra0000
+-   -   -       L¦¦¦00
+-   -   +¦¦¦compute
+-   -   -   +¦¦¦BilinearOverlaps1a03
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦bit_histogram8670
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BlitCookie557f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BlitCubemap5a99
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦block_reduce_part4e03
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦block_scan4d6d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BufferCopyTest8ba6
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BuildLightGrid16e4
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦build_hlbvh2d70
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ColorPyramid2896
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ComputeHelpers2ba9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CopyBuffer1b95
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CopyDepthToBuffer6666
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CopyPositions1ad5
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Debug4d40
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Defraga183
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DepthPyramid90a2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦EnvironmentImportanceSamplingBuild5bb2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Evictionc9f2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ExpansionHelpers200e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FlatNormalResolution134e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FunctionTestsGroup77f6
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FunctionTestsWave7cce
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦GeometryPoolKernels98e3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦GTAO0e79
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦InstanceDataBufferCopyKernelsf984
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦InstanceDataBufferUploadKernels5386
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦InstanceOcclusionCullingKernelsf6d2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦InstanceTransformUpdateKernels2a56
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦InstanceWindDataUpdateKernelsfde7
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LightmapOccupancy891a
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦OccluderDepthPyramidKernels08b2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦OcclusionCullingDebugb23e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PatchAllocation3d9f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PatchAllocationb271
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeOcclusionLightIndexMapping8b69
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbePostProcessing592b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeBlendStatesa3f7
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeCellDilation6bb3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeSamplingDebugPositionNormal5362
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeSubdividebb86
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeUploadData0951
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeUploadDataL26196
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ResolveAccumulationd922
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦restructure_bvh5664
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦scattera2ea
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ScreenResolveLookup4d27
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ScreenResolveUpsampling7c30
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Scrolling47bb
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SegmentedReduction065a
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SetAlphaChannel5efa
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpatialFiltering63e5
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StpPreTaaa679
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StpSetup33be
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StpTaa3923
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TemporalFilteringc235
+-   -   -   -   L¦¦¦00
+-   -   -   L¦¦¦VrsTexturecacb
+-   -   -       L¦¦¦00
+-   -   +¦¦¦shader
+-   -   -   +¦¦¦1a176
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦2ace5
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BakedLit0ca6
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Blitc171
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BlitFullPrecision815c
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BlitHDROverlaya89b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BlitNoAlpha50b4
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Bloom5f18
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BokehDepthOfField2aed
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BRGPicking74b1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CameraMotionBlur1edc
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CameraMotionVectorsc56b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ChartRasterizerHardwareccc7
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ChartRasterizerSoftwarec1e7
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Checkerboard5caf
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ClusterDeferred222c
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ColorPyramidPS63b9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ComplexLitee7e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ComputeScreenSpaceReflection7b3e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CopyDepthd6da
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CoreBlit9344
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CoreBlitColorAndDepthd104
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CoreCopy12dc
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CurveBackground0d0f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦CustomDepthBlit7057
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DBufferClearf056
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DebugOccluderb3c9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DebugOcclusionTestd3f0
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DebugReplacementcf85
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦DummyPipelineShader61e5
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦EdgeAdaptiveSpatialUpsampling562b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FallbackErrorda07
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FallbackErrore6e9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FallbackLoading7f88
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FallbackMaterial4215
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FallbackShader36e3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FinalPostc49e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦GaussianDepthOfField5e71
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦HDRDebugView5736
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LensFlareDataDriven6cda
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LensFlareDataDrivena796
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LensFlareDataDrivenPreview19df
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LensFlareScreenSpace7018
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Light2D3f6c
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Lit9335
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LutBuilderHdrec9f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦LutBuilderLdr65df
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦MaterialError5fd9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Mesh2D-Lit-Default4e90
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Mesh2D-Unlit-Default8c3b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ObjectMotionVectorFallback7b3e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦OnTileUberPostfe4f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PaniniProjectiona15b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ParticlesLitb783
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ParticlesSimpleLit8516
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ParticlesUnlit0406
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PassthroughSkybox5e4d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeDebug3b21
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeFragmentationDebug3a80
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeOffsetDebugdb8b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ProbeVolumeSamplingDebugbf54
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦RenderAs2D-Flattening7465
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦RenderingLayerMask9ac9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Sampling04c4
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ScalingSetupe8ee
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ScreenSpaceAmbientOcclusion0849
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ScreenSpaceShadows0f85
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Shadow2D-Projectedce09
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Shadow2D-Shadow-Geometry1934
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Shadow2D-Shadow-Sprite44fc
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Shadow2D-Unshadow-Geometry7777
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Shadow2D-Unshadow-Spritede02
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ShadowsMidtonesHighlightsCurves95e1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SimpleDots120e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SimpleLit8d2b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SimpleSpeedTreeDots2b06
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SkinningModule-GUITextureClipbedd
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SolidColor3765
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpatialMappingOcclusion60e1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpatialMappingWireframee8b8
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpeedTree70f41
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpeedTree7Billboard5ec8
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpeedTree89913
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Sprite-Lit-Defaulte260
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Sprite-Maske39b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Sprite-Unlit-Default13c0
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpriteBitmask3230
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpriteEdgeOutline7cbb
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpriteOutline0a8f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Sprites-Inspector603d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StencilDeferrede915
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StencilDitherMaskSeed8c3e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦StopNaN1121
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SubpixelMorphologicalAntialiasing63ea
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TemporalAA9c70
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TerrainDetailLitf678
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TerrainLit69c1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TerrainLitAdd0a7e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TerrainLitBase2132
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TerrainLitBasemapGen8fbe
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TestReportShaderc771
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_Bitmap-Custom-Atlas48bb
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_Bitmap-Mobile1e3b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_Bitmap128e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF Internal Editor9c44
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF Overlaydd89
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF SpaceWarpb5ab
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF SSD SpaceWarp5c6f
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF SSD14eb
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile Maskingbc1e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile Overlaya02a
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile SpaceWarp2ae3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile SSD SpaceWarp2f52
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile SSDc8d1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobile-2-Pass0178
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Mobilefe39
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Surface-Mobile8518
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-Surfacef7ad
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF68e6
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_Spritecf81
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TrackballEditor77cf
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UberPoste785
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UIBackdropFilterComposite8b3d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UniformAlbedoMetaPass3990
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UniformCubemap397e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Unlit650d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UnlitGizmo2df9
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UVFallbackBufferGenerationd28d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦VoxelizeScenec8b6
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦VrsVisualization620b
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦WavingGrassBillboard2986
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦WavingGrasse507
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦XRMirrorViewd5a3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦XRMotionVectorf89a
+-   -   -   -   L¦¦¦00
+-   -   -   L¦¦¦XROcclusionMesh4431
+-   -   -       L¦¦¦00
+-   -   +¦¦¦shadergraph
+-   -   -   +¦¦¦0_2D Sprite Litbde1
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦0_Decal Simple3914
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦0_Lit Basica240
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦0_Particle Unlitaf66
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦1_2D Sprite Unlit25a0
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦1_Decal Material Volume1716
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦1_Lit Fullaee8
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦2_2D Sprite Custom Litbfad
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦2_Particle Lita680
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ArnoldStandardSurface3739
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦ArnoldStandardSurfaceTransparent30fa
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦AutodeskInteractive0e9d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦AutodeskInteractiveMasked80aa
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦AutodeskInteractiveTransparent5c81
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BuiltIn Lit Basic2019
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦BuiltIn Unlit Basic9618
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Custom Render Texture7ef2
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Decal9b4e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Fullscreen Basic URPdf41
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦FullscreenInvertColorsfb63
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PhysicalMaterial3DsMax4424
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦PhysicalMaterial3DsMaxTransparent1a20
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpeedTree8_PBRLit9920
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦SpeedTree9_URPcbd3
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Terrain Simpledef4
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Terrain Standard 4 Layers URPbc3d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-HDRP LITca2e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-HDRP UNLITf63d
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-URP Lita3d8
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦TMP_SDF-URP Unlit124c
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UGUI Canvas Basic5a4a
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UGUI Canvas Meter9d4e
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UITKBasicTemplate0738
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦UITKFullTemplate3e01
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦Unlit Simple2476
+-   -   -   -   L¦¦¦00
+-   -   -   +¦¦¦VFXSpriteLit24a7
+-   -   -   -   L¦¦¦00
+-   -   -   L¦¦¦VFXSpriteUnlitd728
+-   -   -       L¦¦¦00
+-   -   L¦¦¦urtshader
+-   -       +¦¦¦DynamicGISkyOcclusion5a2a
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦Estimation94a3
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapAOIntegration1c41
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapDirectBRDFIntegration5951
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapDirectDirectionalAndEnvironmentIntegrationf5ba
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapDirectStochasticLightIntegration5bbe
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapGBufferDebug737a
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapGBufferIntegratione9f4
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapIndirectIntegration7624
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapNormalIntegration1451
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapShadowMaskIntegrationd19f
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦LightmapValidityIntegrationace9
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦PathIteratorTest6e0b
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦ProbeIntegrationDirectDirectionalAndEnvironmentfe7f
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦ProbeIntegrationDirectStochasticLight1f9b
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦ProbeIntegrationIndirect5ecd
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦ProbeIntegrationOcclusionde30
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦ProbeIntegrationValidity2c32
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦PunctualLightSamplingf324
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦TerrainRayMarchingTest99ac
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       +¦¦¦TraceRenderingLayerMask94a0
+-   -       -   +¦¦¦00
+-   -       -   L¦¦¦01
+-   -       L¦¦¦TraceVirtualOffsetff2c
+-   -           +¦¦¦00
+-   -           L¦¦¦01
+-   +¦¦¦StateCache
+-   -   +¦¦¦HierarchyWindowStageViewState
+-   -   -   +¦¦¦11
+-   -   -   +¦¦¦7e
+-   -   -   +¦¦¦82
+-   -   -   +¦¦¦a3
+-   -   -   +¦¦¦d0
+-   -   -   +¦¦¦ea
+-   -   -   +¦¦¦ec
+-   -   -   +¦¦¦f0
+-   -   -   L¦¦¦fd
+-   -   +¦¦¦LayerSettings
+-   -   -   L¦¦¦9e
+-   -   +¦¦¦MainStageHierarchy
+-   -   -   +¦¦¦39
+-   -   -   L¦¦¦4d
+-   -   L¦¦¦SceneView
+-   -       +¦¦¦15
+-   -       +¦¦¦45
+-   -       +¦¦¦8c
+-   -       +¦¦¦b4
+-   -       +¦¦¦b9
+-   -       L¦¦¦bc
+-   +¦¦¦TempArtifacts
+-   -   +¦¦¦Extra
+-   -   L¦¦¦Primary
+-   L¦¦¦UIElements
+-       L¦¦¦EditorWindows
++¦¦¦Logs
++¦¦¦obj
+-   L¦¦¦Debug
+-       L¦¦¦TempPE
++¦¦¦Packages
++¦¦¦ProjectSettings
+-   L¦¦¦Packages
+-       L¦¦¦com.unity.learn.iet-framework
++¦¦¦Temp
+-   +¦¦¦bin
+-   -   L¦¦¦Debug
+-   +¦¦¦Burst
+-   -   +¦¦¦burst-aot01vqf0nt.zuk
+-   -   +¦¦¦burst-aot0iaxtve2.osn
+-   -   +¦¦¦burst-aot0jv1qwgm.drq
+-   -   +¦¦¦burst-aot0m2eizzj.hun
+-   -   +¦¦¦burst-aot0rhntteq.lny
+-   -   +¦¦¦burst-aot0y1r5r5v.aqv
+-   -   +¦¦¦burst-aot0ytlrv1w.0re
+-   -   +¦¦¦burst-aot0zq2kz2c.1yp
+-   -   +¦¦¦burst-aot10mn2rpb.akc
+-   -   +¦¦¦burst-aot10vdygmw.mp2
+-   -   +¦¦¦burst-aot130aempp.4uq
+-   -   +¦¦¦burst-aot1atwl33d.val
+-   -   +¦¦¦burst-aot1b2vr2mf.rmj
+-   -   +¦¦¦burst-aot1bnykjzh.wyd
+-   -   +¦¦¦burst-aot1bz2k2ec.dl5
+-   -   +¦¦¦burst-aot1cewehdw.cqs
+-   -   +¦¦¦burst-aot1fxl31an.ljp
+-   -   +¦¦¦burst-aot1hrh2ces.rrh
+-   -   +¦¦¦burst-aot1icvderj.ovu
+-   -   +¦¦¦burst-aot1iogwyjh.3so
+-   -   +¦¦¦burst-aot1lj2oint.opr
+-   -   +¦¦¦burst-aot1mzg50hy.jk1
+-   -   +¦¦¦burst-aot1rhkx3xh.b3a
+-   -   +¦¦¦burst-aot1vndk0bc.5ew
+-   -   +¦¦¦burst-aot1y50incg.ngj
+-   -   +¦¦¦burst-aot20ilmynt.iph
+-   -   +¦¦¦burst-aot21pkwwpc.xto
+-   -   +¦¦¦burst-aot2anlrjgy.5lg
+-   -   +¦¦¦burst-aot2bwav55b.lvg
+-   -   +¦¦¦burst-aot2cdrhaah.qkg
+-   -   +¦¦¦burst-aot2ll02b4n.k2l
+-   -   +¦¦¦burst-aot2mheftlk.nbu
+-   -   +¦¦¦burst-aot2nkgiv0j.akd
+-   -   +¦¦¦burst-aot2tpxtrdm.szq
+-   -   +¦¦¦burst-aot2vb15odh.2ls
+-   -   +¦¦¦burst-aot2yrh54ik.mom
+-   -   +¦¦¦burst-aot33ru5woq.mdf
+-   -   +¦¦¦burst-aot3bqnlazf.2ex
+-   -   +¦¦¦burst-aot3ehi3u3d.ldp
+-   -   +¦¦¦burst-aot3fa3suqg.zjo
+-   -   +¦¦¦burst-aot3hdgpobo.aa1
+-   -   +¦¦¦burst-aot3idh20uf.w0q
+-   -   +¦¦¦burst-aot3jdtw0b0.43m
+-   -   +¦¦¦burst-aot3l1urfsj.5zk
+-   -   +¦¦¦burst-aot3oh2ni5a.5gr
+-   -   +¦¦¦burst-aot3qmysgmt.4ty
+-   -   +¦¦¦burst-aot3tv5ifth.1kp
+-   -   +¦¦¦burst-aot3ucxlniz.ryl
+-   -   +¦¦¦burst-aot3vrkhmv2.oqp
+-   -   +¦¦¦burst-aot41llgcqz.zsp
+-   -   +¦¦¦burst-aot44j40lkl.opa
+-   -   +¦¦¦burst-aot4ckeqauk.u4t
+-   -   +¦¦¦burst-aot4d5zgfw5.ijf
+-   -   +¦¦¦burst-aot4jpso0qp.w21
+-   -   +¦¦¦burst-aot4nrsaxep.xf3
+-   -   +¦¦¦burst-aot4oj5t2gu.0qa
+-   -   +¦¦¦burst-aot4yqwvikw.mgk
+-   -   +¦¦¦burst-aot4zlfmpif.zv4
+-   -   +¦¦¦burst-aot53ohw0fg.lcx
+-   -   +¦¦¦burst-aot5bddsnlm.0ik
+-   -   +¦¦¦burst-aot5bgiwnlx.hst
+-   -   +¦¦¦burst-aot5jonioae.e02
+-   -   +¦¦¦burst-aot5k2dqscy.bmn
+-   -   +¦¦¦burst-aot5nn33hlk.wcy
+-   -   +¦¦¦burst-aot5r0jidki.yaj
+-   -   +¦¦¦burst-aot5tj4p5l3.iwx
+-   -   +¦¦¦burst-aot5x0yqpya.uer
+-   -   +¦¦¦burst-aota2ormssm.bte
+-   -   +¦¦¦burst-aotadqjiruy.4gf
+-   -   +¦¦¦burst-aotaiezoeum.l2e
+-   -   +¦¦¦burst-aotaifrui2x.j4s
+-   -   +¦¦¦burst-aotajses4yd.iwl
+-   -   +¦¦¦burst-aotalitmkdc.sxx
+-   -   +¦¦¦burst-aotaqikxe1g.iqa
+-   -   +¦¦¦burst-aotav1tqehf.dzs
+-   -   +¦¦¦burst-aotayhr5oio.msa
+-   -   +¦¦¦burst-aotb1qbxbzl.50y
+-   -   +¦¦¦burst-aotb2fq10s0.sub
+-   -   +¦¦¦burst-aotbdbmncuz.b1b
+-   -   +¦¦¦burst-aotbdbqdups.cez
+-   -   +¦¦¦burst-aotbgif3zeb.vaa
+-   -   +¦¦¦burst-aotbiep4fwl.3ff
+-   -   +¦¦¦burst-aotbigujcdw.4ef
+-   -   +¦¦¦burst-aotbkaywhhx.2vh
+-   -   +¦¦¦burst-aotbruot5qe.5s5
+-   -   +¦¦¦burst-aotbsizjtar.ack
+-   -   +¦¦¦burst-aotbvqgn5g0.234
+-   -   +¦¦¦burst-aotc01dl2tr.kec
+-   -   +¦¦¦burst-aotc3exmlis.mhj
+-   -   +¦¦¦burst-aotcadjczz1.qwt
+-   -   +¦¦¦burst-aotcbim0sdt.jjr
+-   -   +¦¦¦burst-aotcdo4qcqt.g3a
+-   -   +¦¦¦burst-aotcfuy2vjy.exe
+-   -   +¦¦¦burst-aotcgeatbaj.ieo
+-   -   +¦¦¦burst-aotcjaufvwg.tkg
+-   -   +¦¦¦burst-aotcn3104ei.2k1
+-   -   +¦¦¦burst-aotcnzma1m3.i0a
+-   -   +¦¦¦burst-aotcs4uugbw.dth
+-   -   +¦¦¦burst-aotcsqbd21x.2ov
+-   -   +¦¦¦burst-aotcv3bmcjt.pbq
+-   -   +¦¦¦burst-aotcvlx4lf5.h1s
+-   -   +¦¦¦burst-aotcyla44c2.ymp
+-   -   +¦¦¦burst-aotd5czyu1y.1mb
+-   -   +¦¦¦burst-aotdfbukhfh.q00
+-   -   +¦¦¦burst-aotdjjgirwr.52c
+-   -   +¦¦¦burst-aotdtjbq3vt.txu
+-   -   +¦¦¦burst-aotduunwcn2.bqu
+-   -   +¦¦¦burst-aotdyk1vbs3.3og
+-   -   +¦¦¦burst-aote2cxschx.b5s
+-   -   +¦¦¦burst-aote2qzux2k.b2f
+-   -   +¦¦¦burst-aote3sw1gf4.t3r
+-   -   +¦¦¦burst-aote4mcanqe.dp3
+-   -   +¦¦¦burst-aotebscn1qf.zau
+-   -   +¦¦¦burst-aotefcuxy0p.uxd
+-   -   +¦¦¦burst-aotehvp0huw.shn
+-   -   +¦¦¦burst-aoteiighud5.xsl
+-   -   +¦¦¦burst-aoteppa1spt.obs
+-   -   +¦¦¦burst-aotevlpdzax.pzl
+-   -   +¦¦¦burst-aotewf53xaf.zae
+-   -   +¦¦¦burst-aotf01tm5yp.yav
+-   -   +¦¦¦burst-aotf1mgciy3.k5x
+-   -   +¦¦¦burst-aotf1pvxyqx.sgl
+-   -   +¦¦¦burst-aotfbwopmzg.wmr
+-   -   +¦¦¦burst-aotfconaixl.qhp
+-   -   +¦¦¦burst-aotfdewzup1.2ln
+-   -   +¦¦¦burst-aotfecowcyb.uf5
+-   -   +¦¦¦burst-aotferblx5d.l0z
+-   -   +¦¦¦burst-aotfers2qam.fzj
+-   -   +¦¦¦burst-aotfiv5eaza.lt0
+-   -   +¦¦¦burst-aotfl4in4xr.wgq
+-   -   +¦¦¦burst-aotfnhg11xv.22w
+-   -   +¦¦¦burst-aotfp5cslz5.gzh
+-   -   +¦¦¦burst-aotfydhw5nl.hha
+-   -   +¦¦¦burst-aotfzpcw12n.x1j
+-   -   +¦¦¦burst-aotgcjhg0op.bur
+-   -   +¦¦¦burst-aotgcwuuauv.qpn
+-   -   +¦¦¦burst-aotgcxkwypd.f04
+-   -   +¦¦¦burst-aotgeltjtnu.ulc
+-   -   +¦¦¦burst-aotggdyq3u5.pdt
+-   -   +¦¦¦burst-aotgmrzhdtg.ytg
+-   -   +¦¦¦burst-aotgrfd1brb.054
+-   -   +¦¦¦burst-aotgs0usafq.k2b
+-   -   +¦¦¦burst-aotgt4vhna3.v0e
+-   -   +¦¦¦burst-aotgwrgaa5e.v2u
+-   -   +¦¦¦burst-aotgypmxszu.hig
+-   -   +¦¦¦burst-aoth0gd5gnp.l4k
+-   -   +¦¦¦burst-aoth3zblgss.qrp
+-   -   +¦¦¦burst-aoth4241rz2.nxd
+-   -   +¦¦¦burst-aothauprxqh.xb5
+-   -   +¦¦¦burst-aothhglyydh.vel
+-   -   +¦¦¦burst-aothibragtr.pdu
+-   -   +¦¦¦burst-aothitz2mot.jx2
+-   -   +¦¦¦burst-aothm2d0q4p.zks
+-   -   +¦¦¦burst-aothn11s4it.3gj
+-   -   +¦¦¦burst-aotho4vepzj.031
+-   -   +¦¦¦burst-aothogb1zvh.1f5
+-   -   +¦¦¦burst-aothqwbbxa0.ias
+-   -   +¦¦¦burst-aothrbg1bvp.gvc
+-   -   +¦¦¦burst-aothu1psfx3.koe
+-   -   +¦¦¦burst-aothy3en12x.1ey
+-   -   +¦¦¦burst-aothzrmvqiv.g2r
+-   -   +¦¦¦burst-aoti0z52vyy.yt4
+-   -   +¦¦¦burst-aoti2dmhbfm.2gv
+-   -   +¦¦¦burst-aotigc3ifsv.1ba
+-   -   +¦¦¦burst-aotighhm4yh.rkb
+-   -   +¦¦¦burst-aotih5kjypp.n5c
+-   -   +¦¦¦burst-aotiio3aibz.4le
+-   -   +¦¦¦burst-aotiivcript.l4b
+-   -   +¦¦¦burst-aotiknv4okj.2ki
+-   -   +¦¦¦burst-aotimdkanca.qpf
+-   -   +¦¦¦burst-aotimiqnmee.rsu
+-   -   +¦¦¦burst-aotinqesc02.f5r
+-   -   +¦¦¦burst-aotirobc0sh.qfa
+-   -   +¦¦¦burst-aotit5wkzsq.kug
+-   -   +¦¦¦burst-aotitgz4x3h.cgl
+-   -   +¦¦¦burst-aotiutacdzh.daf
+-   -   +¦¦¦burst-aotiuvbhcla.csy
+-   -   +¦¦¦burst-aotiwgkshof.c4q
+-   -   +¦¦¦burst-aotizd4zjwd.net
+-   -   +¦¦¦burst-aotj1ci5up1.pmx
+-   -   +¦¦¦burst-aotj2zuvpzk.une
+-   -   +¦¦¦burst-aotjc0zbdpw.1lb
+-   -   +¦¦¦burst-aotjctnm0t0.f54
+-   -   +¦¦¦burst-aotjgxprjje.3es
+-   -   +¦¦¦burst-aotjiqz0ywt.2wz
+-   -   +¦¦¦burst-aotjmbks3w3.v3k
+-   -   +¦¦¦burst-aotjpmeorj2.sob
+-   -   +¦¦¦burst-aotjvtoyojs.nze
+-   -   +¦¦¦burst-aotk2hd54dl.pec
+-   -   +¦¦¦burst-aotkkjjiplm.u3i
+-   -   +¦¦¦burst-aotkp3fhpv3.kdn
+-   -   +¦¦¦burst-aotkxkdzbw3.fqi
+-   -   +¦¦¦burst-aotkxp01gjw.qq5
+-   -   +¦¦¦burst-aotkzpp3y5d.tss
+-   -   +¦¦¦burst-aotl3ar5l3h.p1q
+-   -   +¦¦¦burst-aotl5dy5l20.mda
+-   -   +¦¦¦burst-aotleo1txge.rhl
+-   -   +¦¦¦burst-aotlfm4zrew.tej
+-   -   +¦¦¦burst-aotlg5ffegf.jhi
+-   -   +¦¦¦burst-aotlhr2aegf.o2l
+-   -   +¦¦¦burst-aotlitztbns.vv5
+-   -   +¦¦¦burst-aotlpedmtze.zcj
+-   -   +¦¦¦burst-aotlqmef4lu.3ad
+-   -   +¦¦¦burst-aotlsb4q5vh.fkt
+-   -   +¦¦¦burst-aotlu05cls2.1lr
+-   -   +¦¦¦burst-aotludfm0vm.2kp
+-   -   +¦¦¦burst-aotm4pvngxl.ubn
+-   -   +¦¦¦burst-aotmfqjnblj.zm2
+-   -   +¦¦¦burst-aotmhauxvna.khg
+-   -   +¦¦¦burst-aotmhxwv2k4.lxo
+-   -   +¦¦¦burst-aotml3fhdjj.std
+-   -   +¦¦¦burst-aotmnbscdqr.dzw
+-   -   +¦¦¦burst-aotmntszk4p.2ko
+-   -   +¦¦¦burst-aotmnxl15zp.r3n
+-   -   +¦¦¦burst-aotmrbx0kv3.hnc
+-   -   +¦¦¦burst-aotmrcabxek.h1n
+-   -   +¦¦¦burst-aotmrg23e4t.h2f
+-   -   +¦¦¦burst-aotmt4sdepm.rct
+-   -   +¦¦¦burst-aotmtmq2jsy.s33
+-   -   +¦¦¦burst-aotmtxeogxf.3qm
+-   -   +¦¦¦burst-aotmzni1udf.5wo
+-   -   +¦¦¦burst-aotn1llhcme.xqy
+-   -   +¦¦¦burst-aotn2uiy1hi.rm1
+-   -   +¦¦¦burst-aotn4epyfkv.nia
+-   -   +¦¦¦burst-aotn4gpzho5.31s
+-   -   +¦¦¦burst-aotnfi0x3x0.sqr
+-   -   +¦¦¦burst-aotnjtppo2s.4bh
+-   -   +¦¦¦burst-aotnju2vp2t.w10
+-   -   +¦¦¦burst-aotnkq0uibe.zi3
+-   -   +¦¦¦burst-aotnmoue410.dgr
+-   -   +¦¦¦burst-aotnp0sal22.rcg
+-   -   +¦¦¦burst-aotnrxvkcdz.tzs
+-   -   +¦¦¦burst-aotnsu3ttug.quv
+-   -   +¦¦¦burst-aoto1uc4p40.5bz
+-   -   +¦¦¦burst-aotoapki3ty.r3p
+-   -   +¦¦¦burst-aotocbtpx1a.xdm
+-   -   +¦¦¦burst-aotohec0q0c.l4b
+-   -   +¦¦¦burst-aotokzbefgy.y5l
+-   -   +¦¦¦burst-aotom3rfto0.3d3
+-   -   +¦¦¦burst-aotonzwynh0.0hu
+-   -   +¦¦¦burst-aotoqzjwstr.too
+-   -   +¦¦¦burst-aotosppmz2x.ckd
+-   -   +¦¦¦burst-aototx0lwun.ji0
+-   -   +¦¦¦burst-aotovyudrb5.yta
+-   -   +¦¦¦burst-aotp1gvd0g3.1ww
+-   -   +¦¦¦burst-aotp1mfgexs.lek
+-   -   +¦¦¦burst-aotp5r5h0qh.4yv
+-   -   +¦¦¦burst-aotpdkbzgw3.dmk
+-   -   +¦¦¦burst-aotpepngs3j.ml5
+-   -   +¦¦¦burst-aotpg50unyx.fb0
+-   -   +¦¦¦burst-aotpipaaksn.5zn
+-   -   +¦¦¦burst-aotpk3musnh.xcp
+-   -   +¦¦¦burst-aotpkyrq05r.odv
+-   -   +¦¦¦burst-aotpnxzwzho.kuv
+-   -   +¦¦¦burst-aotpqfnnixu.bxd
+-   -   +¦¦¦burst-aotpryongks.edi
+-   -   +¦¦¦burst-aotpwmwezzh.trw
+-   -   +¦¦¦burst-aotpwywpywt.ghi
+-   -   +¦¦¦burst-aotpzgcyhch.zbk
+-   -   +¦¦¦burst-aotq0ev3wl4.k0t
+-   -   +¦¦¦burst-aotqbtk2odr.umn
+-   -   +¦¦¦burst-aotqibbep2m.1tk
+-   -   +¦¦¦burst-aotqjle3vmn.15x
+-   -   +¦¦¦burst-aotqqiskseu.piq
+-   -   +¦¦¦burst-aotqqmkxqn0.xin
+-   -   +¦¦¦burst-aotqs123vy5.4bc
+-   -   +¦¦¦burst-aotqsqvsbkz.pri
+-   -   +¦¦¦burst-aotqsyg323y.ogz
+-   -   +¦¦¦burst-aotqwzkbqps.gwa
+-   -   +¦¦¦burst-aotqxfrl4ia.h1y
+-   -   +¦¦¦burst-aotqyqez0jp.saw
+-   -   +¦¦¦burst-aotr2j4yhdb.4ll
+-   -   +¦¦¦burst-aotrain1mfj.nn2
+-   -   +¦¦¦burst-aotre2wf5dm.xvh
+-   -   +¦¦¦burst-aotrgdwrcxc.ndf
+-   -   +¦¦¦burst-aotrkfaqm4l.aqe
+-   -   +¦¦¦burst-aotrmy0v32d.bpd
+-   -   +¦¦¦burst-aotrn0f25ed.3c1
+-   -   +¦¦¦burst-aotrpds5sur.kjc
+-   -   +¦¦¦burst-aotrqnozy5n.vj4
+-   -   +¦¦¦burst-aotrre4joag.2vm
+-   -   +¦¦¦burst-aotrtmyk5jq.gxx
+-   -   +¦¦¦burst-aotrwkplled.k51
+-   -   +¦¦¦burst-aots2sd4rvg.qpc
+-   -   +¦¦¦burst-aots3vlokha.jsh
+-   -   +¦¦¦burst-aots5skufe2.ksr
+-   -   +¦¦¦burst-aots5tlv5dt.kmv
+-   -   +¦¦¦burst-aotseeut0aw.rxg
+-   -   +¦¦¦burst-aotsej0ix3g.5ye
+-   -   +¦¦¦burst-aotslhfhq1s.vlc
+-   -   +¦¦¦burst-aotspf24dd2.czk
+-   -   +¦¦¦burst-aotspn31nhx.szp
+-   -   +¦¦¦burst-aotsro5fd5z.tvl
+-   -   +¦¦¦burst-aotsuso5oip.cvt
+-   -   +¦¦¦burst-aotsxbkuwb3.crg
+-   -   +¦¦¦burst-aott4ty11xw.mth
+-   -   +¦¦¦burst-aottdcy3kvg.fjh
+-   -   +¦¦¦burst-aottg1f51ev.mut
+-   -   +¦¦¦burst-aottnf2a24o.y54
+-   -   +¦¦¦burst-aottnj3tbf0.nx1
+-   -   +¦¦¦burst-aottoevnvpl.4p5
+-   -   +¦¦¦burst-aottraybh4l.ezy
+-   -   +¦¦¦burst-aottst5rbn2.s5j
+-   -   +¦¦¦burst-aotu1rrngtw.fvj
+-   -   +¦¦¦burst-aotu3ldnk3p.fi3
+-   -   +¦¦¦burst-aotuagnnee5.ubz
+-   -   +¦¦¦burst-aotud4ql0ap.xo3
+-   -   +¦¦¦burst-aotuedfckzb.zzp
+-   -   +¦¦¦burst-aotueudox0c.jd4
+-   -   +¦¦¦burst-aotuhzf14nw.uq0
+-   -   +¦¦¦burst-aotujeh0qt4.iw1
+-   -   +¦¦¦burst-aotukmhwpql.kib
+-   -   +¦¦¦burst-aotunfwidvb.kdw
+-   -   +¦¦¦burst-aotuqevonue.esm
+-   -   +¦¦¦burst-aotuqzyhlno.oez
+-   -   +¦¦¦burst-aoturws1t1a.1dz
+-   -   +¦¦¦burst-aotutq2odjt.wnc
+-   -   +¦¦¦burst-aotuyshb04e.mdg
+-   -   +¦¦¦burst-aotuz2qx215.45l
+-   -   +¦¦¦burst-aotv3lhhrmj.321
+-   -   +¦¦¦burst-aotv5wbfqfs.rh0
+-   -   +¦¦¦burst-aotvj5jqfik.l1r
+-   -   +¦¦¦burst-aotvjsdlfbs.tfl
+-   -   +¦¦¦burst-aotvlw0sub5.trm
+-   -   +¦¦¦burst-aotvrglyzpn.1xo
+-   -   +¦¦¦burst-aotvsuj2zco.3b5
+-   -   +¦¦¦burst-aotvxgyvgr2.tky
+-   -   +¦¦¦burst-aotw25ry253.zfv
+-   -   +¦¦¦burst-aotw2gqi4jj.od0
+-   -   +¦¦¦burst-aotw4egegpa.dkd
+-   -   +¦¦¦burst-aotwb4kgxz2.xm4
+-   -   +¦¦¦burst-aotwdom3okj.xj5
+-   -   +¦¦¦burst-aotwg1utgcc.juy
+-   -   +¦¦¦burst-aotwhy33luq.nys
+-   -   +¦¦¦burst-aotwk1k5gfh.kik
+-   -   +¦¦¦burst-aotwnsn2i2o.ypg
+-   -   +¦¦¦burst-aotwqlw2jma.gpd
+-   -   +¦¦¦burst-aotwsa0vbx1.gss
+-   -   +¦¦¦burst-aotwttsnop4.nse
+-   -   +¦¦¦burst-aotwuf5gnhj.rsh
+-   -   +¦¦¦burst-aotwuhhf2z3.ato
+-   -   +¦¦¦burst-aotwvlbzxkp.efs
+-   -   +¦¦¦burst-aotx3vbx0xz.uws
+-   -   +¦¦¦burst-aotx4tzojoa.lps
+-   -   +¦¦¦burst-aotxabrax54.g3f
+-   -   +¦¦¦burst-aotxbsok1dj.xab
+-   -   +¦¦¦burst-aotxh4nbnsd.phl
+-   -   +¦¦¦burst-aotxituuyv4.vkt
+-   -   +¦¦¦burst-aotxmugatdx.kxx
+-   -   +¦¦¦burst-aotxyc0cxhx.yx0
+-   -   +¦¦¦burst-aotxzci4wvq.lxg
+-   -   +¦¦¦burst-aoty3logzub.tum
+-   -   +¦¦¦burst-aoty4phe4xj.xst
+-   -   +¦¦¦burst-aoty4scq22z.w5s
+-   -   +¦¦¦burst-aotyboohuja.wmv
+-   -   +¦¦¦burst-aotygnivpfl.p4a
+-   -   +¦¦¦burst-aotyjjq2pkb.q4h
+-   -   +¦¦¦burst-aotyjy2yhqe.xph
+-   -   +¦¦¦burst-aotylpvekvv.tz1
+-   -   +¦¦¦burst-aotyy20hghx.bqj
+-   -   +¦¦¦burst-aotyytx0tk0.ehv
+-   -   +¦¦¦burst-aotyzaxe4dy.dfc
+-   -   +¦¦¦burst-aotz3hb2m3n.qgg
+-   -   +¦¦¦burst-aotz4aq4ysl.xec
+-   -   +¦¦¦burst-aotzatwwxkw.x1b
+-   -   +¦¦¦burst-aotzcxfmljb.auc
+-   -   +¦¦¦burst-aotzdjbbsuk.uq4
+-   -   +¦¦¦burst-aotzjddeomo.dlx
+-   -   +¦¦¦burst-aotzjwumfg3.u5d
+-   -   +¦¦¦burst-aotzouvr4lu.wjj
+-   -   +¦¦¦burst-aotzsrq1smg.0jt
+-   -   +¦¦¦burst-aotzv1zfqzh.aap
+-   -   +¦¦¦burst-aotzvvg1gs4.rwu
+-   -   L¦¦¦burst-aotzyebiyje.tt3
+-   L¦¦¦ProcessJobs
+L¦¦¦UserSettings
+    L¦¦¦Layouts
+Folder PATH listing
+Volume serial number is 06A3-7EED
+C:\USERS\KOMPUTER\HACKATHON2026\-F
+Invalid path - \USERS\KOMPUTER\HACKATHON2026\-F
+No subfolders exist 
+
