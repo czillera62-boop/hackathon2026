@@ -31,7 +31,7 @@ public class Drum : MonoBehaviour
     private void OnDrumClicked(InputAction.CallbackContext context)
     {
         Collider2D col = Physics2D.OverlapPoint(transform.position);
-        if(col == null || col.tag != "Note")
+        if (col == null || col.tag != "Note")
         {
             OnDrumHit?.Invoke(this, false, FallingNote.NoteType.Good, 0f);
             return;
