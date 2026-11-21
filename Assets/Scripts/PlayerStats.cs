@@ -37,7 +37,7 @@ public class PlayerStats : MonoBehaviour
     {
         if (!hit)
         {
-            AddPoints(-1);
+            AddPoints(-5);
             //Miss!
             return;
         }
@@ -48,17 +48,17 @@ public class PlayerStats : MonoBehaviour
 
             if (distance < 0.08f) //Perfect!
             {
-                AddPoints(25);
+                AddPoints(100);
                 Debug.Log("Perfect!");
             }
             else if (distance < 0.3f) //Good!
             {
-                AddPoints(10);
+                AddPoints(25);
                 Debug.Log("Good!");
             }
             else //Meh
             {
-                AddPoints(3);
+                AddPoints(5);
                 Debug.Log("Meh!");
             }
         }
@@ -66,17 +66,17 @@ public class PlayerStats : MonoBehaviour
         {
             if (distance < 0.08f) //Bad Perfect!
             {
-                AddPoints(-25);
+                AddPoints(-100);
                 Debug.Log("Bad Perfect!");
             }
             else if (distance < 0.3f)
             {
-                AddPoints(-10);
+                AddPoints(-25);
                 Debug.Log("Bad Good!");
             }
             else //Meh
             {
-                AddPoints(-3);
+                AddPoints(-5);
                 Debug.Log("Bad Meh!");
             }
 
