@@ -1,3 +1,4 @@
+using System.Collections;
 using DG.Tweening;
 using UnityEngine;
 
@@ -18,10 +19,15 @@ public class WiFi : MonoBehaviour
     [SerializeField] private GameObject[] stageImages;
 
     [Tooltip("Obraz i-ty w³¹cza siê, gdy punkty > próg i-ty.")]
-    [SerializeField] private int[] thresholds = { 0, 1000, 2000 };
+    [SerializeField] private int[] thresholds = { 1000, 2000, 3000 };
 
     [Tooltip("Zaznaczone = obraz nigdy nie cofa siê po spadku punktów (brak migania na granicy progu).")]
     [SerializeField] private bool onlyGoUp = true;
+
+    [Header("Animacja obrazu")]
+    [Tooltip("Zaznaczone = animacja z pliku .ase zagra RAZ w momencie zmiany, po czym obraz zostaje widoczny na pierwszej klatce. " +
+             "Odznaczone = animacja zapêtla siê bez koñca (wifi_loss_3 ma wtedy puste klatki, wiêc bêdzie znikaæ).")]
+    [SerializeField] private bool playOnce = true;
 
     [Header("Efekt przy zmianie")]
     [SerializeField] private bool playPunch = true;
@@ -30,6 +36,7 @@ public class WiFi : MonoBehaviour
 
     private int _currentStage = -1; // -1 = przed pierwszym progiem
     private bool _initialized;
+    private Coroutine _playOnceRoutine;
 
     private void OnEnable()
     {
@@ -81,6 +88,12 @@ public class WiFi : MonoBehaviour
         _initialized = true;
         _currentStage = stage;
 
+        if (_playOnceRoutine != null)
+        {
+            StopCoroutine(_playOnceRoutine);
+            _playOnceRoutine = null;
+        }
+
         if (startImage != null)
             startImage.SetActive(stage < 0);
 
@@ -90,11 +103,39 @@ public class WiFi : MonoBehaviour
                 stageImages[i].SetActive(i == stage);
         }
 
+        if (playOnce && stage >= 0 && stageImages[stage] != null)
+        {
+            Animator anim = stageImages[stage].GetComponentInChildren<Animator>(true);
+            if (anim != null)
+                _playOnceRoutine = StartCoroutine(PlayOnceAndFreeze(anim));
+        }
+
         if (animate)
         {
             transform.DOComplete(); // dokoñcz poprzedni efekt, ¿eby skala siê nie rozjecha³a
             transform.DOPunchScale(Vector3.one * punchScale, punchDuration);
         }
+    }
+
+    // Odtwarza animacjê od pocz¹tku jeden raz, a potem zatrzymuje j¹ na pierwszej klatce.
+    private IEnumerator PlayOnceAndFreeze(Animator anim)
+    {
+        anim.speed = 1f; // po poprzednim zatrzymaniu (speed = 0) trzeba odblokowaæ animacjê
+        yield return null; // poczekaj jedn¹ klatkê, a¿ Animator wczyta stan po w³¹czeniu obiektu
+
+        if (anim == null || !anim.gameObject.activeInHierarchy)
+            yield break;
+
+        AnimatorStateInfo info = anim.GetCurrentAnimatorStateInfo(0);
+        yield return new WaitForSeconds(info.length);
+
+        if (anim == null || !anim.gameObject.activeInHierarchy)
+            yield break;
+
+        anim.Play(info.fullPathHash, 0, 0f); // wróæ na pierwsz¹ klatkê
+        anim.Update(0f);
+        anim.speed = 0f;                     // i j¹ zamroŸ
+        _playOnceRoutine = null;
     }
 
     private void OnDestroy()
