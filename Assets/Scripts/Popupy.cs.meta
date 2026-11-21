@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: f57caa4449ea324438ac235348c021c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missSprite: {fileID: 1259634320649727704, guid: 7bd113eab8802a945bcb620dcca5885a, type: 3}
+  - badSprite: {fileID: 7644920375770505294, guid: fb829a35f42809f4e8e2a4b1b68a7367, type: 3}
+  - mehSprite: {fileID: 4623016002307063400, guid: ef3495b33d27d8e46a929b557ddfd72e, type: 3}
+  - goodSprite: {fileID: -2755108819309849256, guid: 2553937be6d31f64f87b7366ec26de37, type: 3}
+  - perfectSprite: {fileID: 3435925355489159684, guid: 0542390ab2ee03746b65f8056d784ee8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
