@@ -87,7 +87,7 @@ MonoBehaviour:
   goodSprites:
   - {fileID: 2311795585915220879, guid: 8d27716c557ed1746b7e6ca9ea83c98f, type: 3}
   - {fileID: -7957057028606800225, guid: a3eeb3e84c8db1d4f8455d663c9a3754, type: 3}
-  - {fileID: -1008938512229261564, guid: df5fa7f7b2f5c1146b868244c0074146, type: 3}
+  - {fileID: -6132528615704784548, guid: df5fa7f7b2f5c1146b868244c0074146, type: 3}
   - {fileID: 6756511284043498650, guid: d482d681e03be1a418466ddbafc74ce7, type: 3}
   - {fileID: 6239281753485800238, guid: e86db8bd023609042b7a2d2e690b29f1, type: 3}
   - {fileID: 3351783035506892929, guid: 2200ac07c393fbd468fa8bf447a30fde, type: 3}
