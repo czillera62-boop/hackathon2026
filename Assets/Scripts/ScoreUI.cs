@@ -1,18 +1,23 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
 
 public class ScoreUI : MonoBehaviour
 {
-    [Header("Referencje")]
+    [Header("References")]
     [SerializeField] private UIDocument uiDocument;
     [SerializeField] private PlayerStats playerStats;
 
-    [Header("Ustawienia UI Toolkit")]
-    [Tooltip("Dokładna nazwa (Name) elementu Label wpisana w UI Builderze.")]
+    [Header("Score Label Settings")]
     [SerializeField] private string scoreLabelName = "ScoreLabel";
     [SerializeField] private string prefix = "Score: ";
 
+    [Header("Restart Button Settings")]
+    [SerializeField] private string restartButtonName = "RestartButton";
+
     private Label _scoreLabel;
+    private Button _restartButton;
+    private bool _isGameOver;
 
     private void OnEnable()
     {
@@ -21,36 +26,69 @@ public class ScoreUI : MonoBehaviour
 
         if (uiDocument == null || playerStats == null)
         {
-            Debug.LogError("ScoreUI: Brak przypisanego UIDocument lub PlayerStats!", this);
+            Debug.LogError("ScoreUI: Missing UIDocument or PlayerStats reference!", this);
             return;
         }
 
-        // Pobranie korzenia UI i wyszukanie Labela po nazwie
         VisualElement root = uiDocument.rootVisualElement;
-        _scoreLabel = root.Q<Label>(scoreLabelName);
 
+        // 1. Setup Score Label
+        _scoreLabel = root.Q<Label>(scoreLabelName);
         if (_scoreLabel == null)
+            Debug.LogError($"ScoreUI: Could not find Label '{scoreLabelName}' in UXML!", this);
+
+        // 2. Setup Restart Button
+        _restartButton = root.Q<Button>(restartButtonName);
+        if (_restartButton != null)
         {
-            Debug.LogError($"ScoreUI: Nie znaleziono elementu Label o nazwie '{scoreLabelName}' w dokumencie UXML!", this);
-            return;
+            _restartButton.style.display = DisplayStyle.None;
+            _restartButton.clicked += RestartGame;
+        }
+        else
+        {
+            Debug.LogError($"ScoreUI: Could not find Button '{restartButtonName}' in UXML!", this);
         }
 
-        // Podpięcie się pod event zmiany punktów z Twojego skryptu PlayerStats
-        playerStats.OnPointsChanged += UpdateScoreText;
-
-        // Ustawienie początkowej wartości przy starcie
-        UpdateScoreText(playerStats.punkty);
+        // Subscribe to score changes and initialize UI
+        playerStats.OnPointsChanged += HandlePointsChanged;
+        HandlePointsChanged(playerStats.punkty);
     }
 
     private void OnDisable()
     {
+        if (_restartButton != null)
+            _restartButton.clicked -= RestartGame;
+
         if (playerStats != null)
-            playerStats.OnPointsChanged -= UpdateScoreText;
+            playerStats.OnPointsChanged -= HandlePointsChanged;
     }
 
-    private void UpdateScoreText(int currentPoints)
+    private void HandlePointsChanged(int currentPoints)
     {
         if (_scoreLabel != null)
             _scoreLabel.text = $"{prefix}{currentPoints}";
+
+        if (!_isGameOver && currentPoints < 0)
+            TriggerGameOver();
+    }
+
+    private void TriggerGameOver()
+    {
+        _isGameOver = true;
+
+        if (_restartButton != null)
+            _restartButton.style.display = DisplayStyle.Flex;
+
+        // Freeze gameplay, tweens, and audio (pauses Conductor's dspTime)
+        Time.timeScale = 0f;
+        AudioListener.pause = true;
+    }
+
+    private void RestartGame()
+    {
+        Time.timeScale = 1f;
+        AudioListener.pause = false;
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

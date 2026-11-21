@@ -1008,6 +1008,7 @@ MonoBehaviour:
   playerStats: {fileID: 1799898953}
   scoreLabelName: ScoreLabel
   prefix: 'Score:  '
+  restartButtonName: RestartButton
 --- !u!114 &1799898953 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 840325467666127459, guid: 39d60c3ab29b37842b59312861805509, type: 3}
