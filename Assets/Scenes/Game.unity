@@ -778,11 +778,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: stepsToTarget
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: audioLatencyOffset
       value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
+      propertyPath: moveDurationInBeats
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 9041853922637743346, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: m_LocalPosition.x
