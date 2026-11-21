@@ -275,6 +275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wifi_loss_1
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: a03404e3f61479c4081255f1a0b18708, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: a03404e3f61479c4081255f1a0b18708, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -349,11 +353,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WiFi
   playerStats: {fileID: 1799898953}
+  startImage: {fileID: 0}
+  stageImages: []
   thresholds: e8030000d0070000b80b0000i
-  stageSprites:
-  - {fileID: 3899662044801040096, guid: a03404e3f61479c4081255f1a0b18708, type: 3}
-  - {fileID: -9072297749771222514, guid: eac374ad72a6f524b821a6c8c27e206a, type: 3}
-  - {fileID: 6417409499797084585, guid: 2b58e06f95cd107449c7071067aa4c34, type: 3}
+  onlyGoUp: 1
+  playOnce: 1
   playPunch: 1
   punchScale: 0.2
   punchDuration: 0.3
