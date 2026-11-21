@@ -53,16 +53,48 @@ PrefabInstance:
       value: Note Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5011850902466201540, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011850902466201540, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
       propertyPath: m_Color.g
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5011850902466201540, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
       propertyPath: m_Color.r
-      value: 0.16512817
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
-      propertyPath: <noteType>k__BackingField
+      propertyPath: badSprites.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: goodSprites.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: 'badSprites.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8383778674744394379, guid: b20c8c2d86c1a48469a2655fe030fb03, type: 3}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: 'badSprites.Array.data[1]'
+      value: 
+      objectReference: {fileID: 5235617238199890472, guid: 25f2887f569297a47ba069e6e233da6d, type: 3}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: 'badSprites.Array.data[2]'
+      value: 
+      objectReference: {fileID: 6988508469169591184, guid: eb40b608d11ec98498b4f0c310963299, type: 3}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: 'badSprites.Array.data[3]'
+      value: 
+      objectReference: {fileID: 2037774016717281993, guid: 3e4a3eb9e04f4654db052ff633044f80, type: 3}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: 'badSprites.Array.data[4]'
+      value: 
+      objectReference: {fileID: -3531130487411941512, guid: e0c01a10e4a2efa47a8098684ac5460c, type: 3}
+    - target: {fileID: 8439871518759800112, guid: 83c6389527d201845839d2a72248b9c2, type: 3}
+      propertyPath: <noteType>k__BackingField
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

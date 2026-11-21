@@ -24,6 +24,13 @@ public class FallingNote : MonoBehaviour
     [SerializeField] private MoveMode moveMode = MoveMode.Stepped;
     [SerializeField] private Ease stepEase = Ease.OutQuad;
 
+    [Header("Sprites")]
+    [Tooltip("brokol, ogor, truskawka, marchew, burak, baklazan")]
+    [SerializeField] private Sprite[] goodSprites;
+
+    [Tooltip("burgir, frytki, pizza, mis, lizak")]
+    [SerializeField] private Sprite[] badSprites;
+
     [Header("Miss")]
     [Tooltip("Poniżej tej wysokości (y) nuta znika, a nieuderzona nuta Good liczy się jako miss.")]
     [SerializeField] private float missY = 0f;
@@ -64,6 +71,8 @@ public class FallingNote : MonoBehaviour
         _startY = startY;
         _targetY = targetY;
 
+        ApplyRandomSprite();
+
         Vector3 p = transform.position;
         p.y = startY;
         transform.position = p;
@@ -75,6 +84,17 @@ public class FallingNote : MonoBehaviour
             Conductor.Instance.OnBeatAhead += HandleBeatAhead;
             _subscribed = true;
         }
+    }
+
+    private void ApplyRandomSprite()
+    {
+        Sprite[] pool = noteType == NoteType.Good ? goodSprites : badSprites;
+        if (pool == null || pool.Length == 0)
+            return;
+
+        SpriteRenderer sr = GetComponentInChildren<SpriteRenderer>();
+        if (sr != null)
+            sr.sprite = pool[Random.Range(0, pool.Length)];
     }
 
     private void Update()

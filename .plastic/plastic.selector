@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 rep "Hackathon2026/Hackathon2026@7972649719932@cloud"
   path "/"
     smartbranch "/main"
+=======
+repository "Hackathon2026/Hackathon2026@7972649719932@cloud"
+  path "/"
+    br "/main"
+    co "/main"
+>>>>>>> 3e5addb2f690e493815aef792774d9f26695ac22

@@ -84,7 +84,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FallingNote
   moveMode: 1
   stepEase: 6
-  <noteType>k__BackingField: 1
+  goodSprites:
+  - {fileID: 2311795585915220879, guid: 8d27716c557ed1746b7e6ca9ea83c98f, type: 3}
+  - {fileID: -7957057028606800225, guid: a3eeb3e84c8db1d4f8455d663c9a3754, type: 3}
+  - {fileID: -1008938512229261564, guid: df5fa7f7b2f5c1146b868244c0074146, type: 3}
+  - {fileID: 6756511284043498650, guid: d482d681e03be1a418466ddbafc74ce7, type: 3}
+  - {fileID: 6239281753485800238, guid: e86db8bd023609042b7a2d2e690b29f1, type: 3}
+  - {fileID: 3351783035506892929, guid: 2200ac07c393fbd468fa8bf447a30fde, type: 3}
+  badSprites: []
+  missY: 0
+  fadeDuration: 0.25
+  fadeEndScale: 0.7
+  <noteType>k__BackingField: 0
 --- !u!1 &4051630659825025266
 GameObject:
   m_ObjectHideFlags: 0
@@ -167,7 +178,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
