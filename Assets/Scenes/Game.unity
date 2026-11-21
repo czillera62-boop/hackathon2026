@@ -275,6 +275,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wifi_loss_1
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: a03404e3f61479c4081255f1a0b18708, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: a03404e3f61479c4081255f1a0b18708, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -351,8 +355,14 @@ MonoBehaviour:
   playerStats: {fileID: 1799898953}
   startImage: {fileID: 0}
   stageImages: []
+<<<<<<< HEAD
   thresholds: 00000000fa000000f4010000i
   onlyGoUp: 1
+=======
+  thresholds: e8030000d0070000b80b0000i
+  onlyGoUp: 1
+  playOnce: 1
+>>>>>>> d69a02d475545d239fefc82a8e767c379028ca8d
   playPunch: 1
   punchScale: 0.2
   punchDuration: 0.3
