@@ -355,14 +355,9 @@ MonoBehaviour:
   playerStats: {fileID: 1799898953}
   startImage: {fileID: 0}
   stageImages: []
-<<<<<<< HEAD
-  thresholds: 00000000fa000000f4010000i
-  onlyGoUp: 1
-=======
   thresholds: e8030000d0070000b80b0000i
   onlyGoUp: 1
   playOnce: 1
->>>>>>> d69a02d475545d239fefc82a8e767c379028ca8d
   playPunch: 1
   punchScale: 0.2
   punchDuration: 0.3
@@ -487,10 +482,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 840325467666127459, guid: 39d60c3ab29b37842b59312861805509, type: 3}
-      propertyPath: punkty
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 2794653344992473077, guid: 39d60c3ab29b37842b59312861805509, type: 3}
       propertyPath: m_LocalScale.x
       value: 3
@@ -787,15 +778,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: stepsToTarget
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: audioLatencyOffset
       value: 0.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 2743633407157403432, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
-      propertyPath: moveDurationInBeats
-      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 9041853922637743346, guid: b69af8c02911f674c8f45e50837661ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -900,10 +887,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7540557555282028616, guid: 5e5e1d74d9753dd4dbe7e40ddd216556, type: 3}
       propertyPath: targetY
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7540557555282028616, guid: 5e5e1d74d9753dd4dbe7e40ddd216556, type: 3}
-      propertyPath: spawnOnEveryBeat
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7540557555282028616, guid: 5e5e1d74d9753dd4dbe7e40ddd216556, type: 3}
